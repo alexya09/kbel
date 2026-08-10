@@ -1,6 +1,5 @@
 import logging
 
-from kif_lib import Entity
 from kif_lib.typing import Any, Iterator
 
 from kif_lib.search import Search
@@ -46,19 +45,23 @@ class KBEL:
         return self._disambiguator
 
     @disambiguator.setter
-    def disambiguator(self, value: Disambiguator) -> None:
+    def disambiguator(self, value: Disambiguator | str) -> None:
+        if isinstance(value, str):
+            value = Disambiguator(value)
         self._disambiguator = value
 
 
     def __init__(self, 
-                 knowledge_base: str, disambiguator: Disambiguator | None = None, search_limit=10, **kwargs):
+                 knowledge_base: str, disambiguator: Disambiguator | str | None = None, search_limit=10, **kwargs):
         self._search_limit = search_limit
         self._knowledge_base = Search(
             knowledge_base,
             limit=self._search_limit,
             **kwargs
         )
-        self._disambiguator = disambiguator
+
+        if disambiguator is not None:
+            self.disambiguator = disambiguator
 
     def candidates_lookup(self, mention: Mention, limit: int = None) -> list[Candidate]:
         """Fetches candidate entities from the knowledge base for a given mention.
@@ -143,9 +146,10 @@ class KBEL:
 
         return [
             LinkResult.from_disambiguation(mention, result)
-            for result in self._disambiguator.disambiguate(mention,
-                        candidates,
-                        limit,
-                        *args,
-                        **kwargs,)
+            for result in self._disambiguator.disambiguate(
+                mention,
+                candidates,
+                limit,
+                *args,
+                **kwargs)
         ]
