@@ -134,7 +134,7 @@ class SimilarityDisambiguator(Disambiguator, strategy_name='sim'):
             top = sims[:limit]
 
             return [
-                DisambiguationResult(iri=c.iri, score=score)
+                DisambiguationResult(candidate=c, score=score)
                 for score, c in top
             ] # type: ignore
 

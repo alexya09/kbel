@@ -3,7 +3,7 @@
 
 import logging
 from textwrap import dedent
-from typing import Any, Literal, Optional, Tuple, TYPE_CHECKING
+from typing import Any, Literal, Optional, TYPE_CHECKING
 
 from kbel.core.mention import Mention
 from kbel.core.results import DisambiguationResult
@@ -211,7 +211,7 @@ Output:""")
                         if c_id:
                             if entity_id == c_id:
                                 disamb_entities.append(
-                                    DisambiguationResult(iri=c.iri))
+                                    DisambiguationResult(candidate=c))
                                 
                 return disamb_entities[:limit] if limit else disamb_entities
             raise ValueError(f'Could not disambiguate the term `{mention.term}` among the candidates.')

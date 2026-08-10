@@ -52,6 +52,6 @@ class NaiveDisambiguator(Disambiguator, strategy_name='naive'):
             LOG.debug('Limit has no effect here. This method always returns the top 1 candidate.')
         for candidate in candidates:
            if candidate.label.lower() == mention.term.lower():
-                return [DisambiguationResult(iri=candidate.iri)]
+                return [DisambiguationResult(candidate=candidate)]
            
-        return [DisambiguationResult(iri=candidates[0].iri)]
+        return [DisambiguationResult(candidate=candidates[0])]

@@ -3,12 +3,11 @@
 
 import logging
 from abc import abstractmethod
-from typing import (Any, AsyncIterator, ClassVar, Final,
-                    Tuple)
+from typing import (Any, AsyncIterator, ClassVar, Final)
 
-from kif_lib import Entity, KIF_Object, Property, Item
+from kif_lib import KIF_Object
 
-from kbel.core.mention import EntityType, Mention
+from kbel.core.mention import Mention
 from kbel.core.candidate import Candidate
 from kbel.core.results import DisambiguationResult
 
@@ -83,7 +82,7 @@ class Disambiguator:
             list[DisambiguationResult]: List of disambiguation results.
         """
         assert len(candidates) > 0, 'No candidates to disambiguate'
-        
+
         return self._disambiguate(mention, candidates, limit, *args, **kwargs)
 
 
