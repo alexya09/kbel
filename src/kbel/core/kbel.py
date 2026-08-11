@@ -35,7 +35,7 @@ class KBEL:
     
 
     @knowledge_base.setter
-    def knowledge_base(self, value: str | Search) -> None:
+    def knowledge_base(self, value: Search | str) -> None:
         if isinstance(value, str):
             value = Search(value, limit=self._search_limit)
 
@@ -53,14 +53,9 @@ class KBEL:
 
 
     def __init__(self, 
-                 knowledge_base: str, disambiguator: Disambiguator | str | None = None, search_limit=10, **kwargs):
+                 knowledge_base: Search | str, disambiguator: Disambiguator | str | None = None, search_limit=10, **kwargs):
         self._search_limit = search_limit
-        self._knowledge_base = Search(
-            knowledge_base,
-            limit=self._search_limit,
-            **kwargs
-        )
-
+        self.knowledge_base = knowledge_base
         if disambiguator is not None:
             self.disambiguator = disambiguator
 
