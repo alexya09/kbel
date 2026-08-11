@@ -3,6 +3,7 @@ import logging
 from kif_lib.typing import Any, Iterator
 
 from kif_lib.search import Search
+from kbel.search import WikidataVDB_Search
 from kbel.core.mention import Mention, EntityType
 from kbel.core.candidate import Candidate
 from kbel.core.results import LinkResult
