@@ -21,7 +21,6 @@ __pycache__/
 
 /examples/
 !/examples/demo/
-src/kbel/core/__pycache__/mention.cpython-313.pyc
 
 __pycache__/
 *.pyc
