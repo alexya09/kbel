@@ -1,0 +1,340 @@
+{
+  "text": "Creola Katherine Johnson (née Coleman, previously Goble; August 26, 1918 – February 24, 2020) was an American mathematician and human computer whose calculations of orbital mechanics as a NASA employee were critical to the success of the first and subsequent U.S. crewed spaceflights. During her 33-year career at NASA and its predecessor, the National Advisory Committee for Aeronautics, she earned a reputation for mastering complex manual calculations and helped pioneer the use of computers to perform tasks previously requiring humans. The space agency noted her \"historical role as one of the first African-American women to work as a NASA scientist\".",
+  "sentence-triples": [
+    {
+      "sentence": "Creola Katherine Johnson (née Coleman, previously Goble; August 26, 1918 – February 24, 2020) was an American mathematician and human computer whose calculations of orbital mechanics as a NASA employee were critical to the success of the first and subsequent U.S. crewed spaceflights.",
+      "triples": [
+        {
+          "draft-triples": {
+            "subject": "Creola Katherine Johnson",
+            "predicate": "née",
+            "object": "Coleman"
+          },
+          "statement": {
+            "subject": "Q11740",
+            "property": "P1477",
+            "object": { "text": "Creola Katherine Coleman", "language": "en" },
+            "references": [
+              {
+                "reference URL": "https://en.wikipedia.org/wiki/Katherine_Johnson",
+                "retrieved": "2026-11-07",
+                "title": "Katherine Johnson"
+              }
+            ],
+            "qualifiers": []
+          }
+        },
+        {
+          "draft-triples": {
+            "subject": "Creola Katherine Johnson",
+            "predicate": "previously",
+            "object": "Goble"
+          },
+          "statement": {
+            "subject": "Q11740",
+            "property": "P2561",
+            "object": {"text": "Katherine Coleman Goble Johnson", "language": "en" },
+            "references": [
+              {
+                "reference URL": "https://en.wikipedia.org/wiki/Katherine_Johnson",
+                "retrieved": "2026-11-07",
+                "title": "Katherine Johnson"
+              }
+            ],
+            "qualifiers": []
+          }
+        },
+        {
+          "draft-triples": {
+            "subject": "Creola Katherine Johnson",
+            "predicate": "born",
+            "object": "August 26, 1918"
+          },
+          "statement": {
+            "subject": "Q11740",
+            "property": "P569",
+            "object": { "time": "1918-08-26T00:00:00Z", "precision": "day" },
+            "references": [
+              {
+                "reference URL": "https://en.wikipedia.org/wiki/Katherine_Johnson",
+                "retrieved": "2026-11-07",
+                "title": "Katherine Johnson"
+              }
+            ],
+            "qualifiers": []
+          }
+        },
+        {
+          "draft-triples": {
+            "subject": "Creola Katherine Johnson",
+            "predicate": "died",
+            "object": "February 24, 2020"
+          },
+          "statement": {
+            "subject": "Q11740",
+            "property": "P570",
+            "object": { "time": "2020-02-24T00:00:00Z", "precision": "day" },
+            "references": [
+              {
+                "reference URL": "https://en.wikipedia.org/wiki/Katherine_Johnson",
+                "retrieved": "2026-11-07",
+                "title": "Katherine Johnson"
+              }
+            ],
+            "qualifiers": []
+          }
+        },
+        {
+          "draft-triples": {
+            "subject": "Creola Katherine Johnson",
+            "predicate": "was",
+            "object": "American"
+          },
+          "statement": {
+            "subject": "Q11740",
+            "property": "P27",
+            "object": "Q30",
+            "references": [
+              {
+                "reference URL": "https://en.wikipedia.org/wiki/Katherine_Johnson",
+                "retrieved": "2026-11-07",
+                "title": "Katherine Johnson"
+              }
+            ],
+            "qualifiers": []
+          }
+        },
+        {
+          "draft-triples": {
+            "subject": "Creola Katherine Johnson",
+            "predicate": "was",
+            "object": "mathematician"
+          },
+          "statement": {
+            "subject": "Q11740",
+            "property": "P106",
+            "object": "Q170790",
+            "references": [
+              {
+                "reference URL": "https://en.wikipedia.org/wiki/Katherine_Johnson",
+                "retrieved": "2026-11-07",
+                "title": "Katherine Johnson"
+              }
+            ],
+            "qualifiers": []
+          }
+        },
+        {
+          "draft-triples": {
+            "subject": "Creola Katherine Johnson",
+            "predicate": "was",
+            "object": "human computer"
+          },
+          "statement": {
+            "subject": "Q11740",
+            "property": "P106",
+            "object": "Q11202952",
+            "references": [
+              {
+                "reference URL": "https://en.wikipedia.org/wiki/Katherine_Johnson",
+                "retrieved": "2026-11-07",
+                "title": "Katherine Johnson"
+              }
+            ],
+            "qualifiers": []
+          }
+        },
+        {
+          "draft-triples": {
+            "subject": "Creola Katherine Johnson",
+            "predicate": "employed by",
+            "object": "NASA"
+          },
+          "statement": {
+            "subject": "Q11740",
+            "property": "P108",
+            "object": "Q23548",
+            "references": [
+              {
+                "reference URL": "https://en.wikipedia.org/wiki/Katherine_Johnson",
+                "retrieved": "2026-11-07",
+                "title": "Katherine Johnson"
+              }
+            ],
+            "qualifiers": []
+          }
+        },
+        {
+          "draft-triples": {
+            "subject": "Creola Katherine Johnson",
+            "predicate": "calculations of orbital mechanics were critical to",
+            "object": "the success of the first and subsequent U.S. crewed spaceflights"
+          },
+          "statement": {
+            "subject": "Q11740",
+            "property": "",
+            "object": "",
+            "references": [
+              {
+                "reference URL": "https://en.wikipedia.org/wiki/Katherine_Johnson",
+                "retrieved": "2026-11-07",
+                "title": "Katherine Johnson"
+              }
+            ],
+            "qualifiers": []
+          }
+        }
+      ]
+    },
+    {
+      "sentence": "During her 33-year career at NASA and its predecessor, the National Advisory Committee for Aeronautics, she earned a reputation for mastering complex manual calculations and helped pioneer the use of computers to perform tasks previously requiring humans.",
+      "triples": [
+        {
+          "draft-triples": {
+            "subject": "she",
+            "predicate": "had a 33-year career at",
+            "object": "NASA"
+          },
+          "statement": {
+            "subject": "Q1425473",
+            "property": "P108",
+            "object": "Q23548",
+            "references": [
+              {
+                "reference URL": "https://en.wikipedia.org/wiki/Katherine_Johnson",
+                "retrieved": "2026-11-07",
+                "title": "Katherine Johnson"
+              }
+            ],
+            "qualifiers": []
+          }
+        },
+        {
+          "draft-triples": {
+            "subject": "she",
+            "predicate": "had a 33-year career at",
+            "object": "National Advisory Committee for Aeronautics"
+          },
+          "statement": {
+            "subject": "Q11740",
+            "property": "P108",
+            "object": "Q618604",
+            "references": [
+              {
+                "reference URL": "https://en.wikipedia.org/wiki/Katherine_Johnson",
+                "retrieved": "2026-11-07",
+                "title": "Katherine Johnson"
+              }
+            ],
+            "qualifiers": []
+          }
+        },
+        {
+          "draft-triples": {
+            "subject": "National Advisory Committee for Aeronautics",
+            "predicate": "is predecessor of",
+            "object": "NASA"
+          },
+          "statement": {
+            "subject": "Q1431394",
+            "property": "P121",
+            "object": "Q23548",
+            "references": [
+              {
+                "reference URL": "https://en.wikipedia.org/wiki/Katherine_Johnson",
+                "retrieved": "2026-11-07",
+                "title": "Katherine Johnson"
+              }
+            ],
+            "qualifiers": []
+          }
+        },
+        {
+          "draft-triples": {
+            "subject": "she",
+            "predicate": "earned a reputation for",
+            "object": "mastering complex manual calculations"
+          },
+          "statement": {
+            "subject": "Q11740",
+            "property": "",
+            "object": "",
+            "references": [
+              {
+                "reference URL": "https://en.wikipedia.org/wiki/Katherine_Johnson",
+                "retrieved": "2026-11-07",
+                "title": "Katherine Johnson"
+              }
+            ],
+            "qualifiers": []
+          }
+        },
+        {
+          "draft-triples": {
+            "subject": "she",
+            "predicate": "helped pioneer",
+            "object": "the use of computers to perform tasks previously requiring humans"
+          },
+          "statement": {
+            "subject": "Q11740",
+            "property": "P170",
+            "object": "",
+            "references": [
+              {
+                "reference URL": "https://en.wikipedia.org/wiki/Katherine_Johnson",
+                "retrieved": "2026-11-07",
+                "title": "Katherine Johnson"
+              }
+            ],
+            "qualifiers": []
+          }
+        }
+      ]
+    },
+    {
+      "sentence": "The space agency noted her \"historical role as one of the first African-American women to work as a NASA scientist\".",
+      "triples": [
+        {
+          "draft-triples": {
+            "subject": "The space agency",
+            "predicate": "noted",
+            "object": "her historical role as one of the first African-American women to work as a NASA scientist"
+          },
+          "statement": {
+            "subject": "",
+            "property": "",
+            "object": "",
+            "references": [
+              {
+                "reference URL": "https://en.wikipedia.org/wiki/Katherine_Johnson",
+                "retrieved": "2026-11-07",
+                "title": "Katherine Johnson"
+              }
+            ],
+            "qualifiers": []
+          }
+        },
+        {
+          "draft-triples": {
+            "subject": "Creola Katherine Johnson",
+            "predicate": "was",
+            "object": "one of the first African-American women to work as a NASA scientist"
+          },
+          "statement": {
+            "subject": "Q11740",
+            "property": "P108",
+            "object": "Q901",
+            "references": [
+              {
+                "reference URL": "https://en.wikipedia.org/wiki/Katherine_Johnson",
+                "retrieved": "2026-11-07",
+                "title": "Katherine Johnson"
+              }
+            ],
+            "qualifiers": []
+          }
+        }
+      ]
+    }
+  ]
+}

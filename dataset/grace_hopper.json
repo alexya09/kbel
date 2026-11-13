@@ -1,0 +1,390 @@
+{
+  "text": "Grace Brewster Hopper (née Murray; December 9, 1906 – January 1, 1992) was an American computer scientist, mathematician, and United States Navy rear admiral. She was a pioneer of computer programming. Hopper was the first to devise the theory of machine-independent programming languages, and used this theory to develop the FLOW-MATIC programming language, which was a major influence on COBOL, an early high-level programming language still in use today. She was also one of the first programmers on the Harvard Mark I computer. She is credited with writing the first computer manual, \"A Manual of Operation for the Automatic Sequence Controlled Calculator\", and is often credited with creating the first compiler.",
+  "sentence-triples": [
+    {
+      "sentence": "Grace Brewster Hopper (née Murray; December 9, 1906 – January 1, 1992) was an American computer scientist, mathematician, and United States Navy rear admiral.",
+      "triples": [
+        {
+          "draft-triples": {
+            "subject": "Grace Brewster Hopper",
+            "predicate": "née",
+            "object": "Murray"
+          },
+          "statement": {
+            "subject": "Q11641",
+            "property": "P1477",
+            "object": { "text": "Grace Brewster Murray", "language": "en" },
+            "references": [
+              {
+                "reference URL": "https://en.wikipedia.org/wiki/Grace_Hopper",
+                "retrieved": "2026-11-07",
+                "title": "Grace Hopper"
+              }
+            ],
+            "qualifiers": []
+          }
+        },
+        {
+          "draft-triples": {
+            "subject": "Grace Brewster Hopper",
+            "predicate": "born",
+            "object": "December 9, 1906"
+          },
+          "statement": {
+            "subject": "Q11641",
+            "property": "P569",
+            "object": { "time": "1906-12-09T00:00:00Z", "precision": "day" },
+            "references": [
+              {
+                "reference URL": "https://en.wikipedia.org/wiki/Grace_Hopper",
+                "retrieved": "2026-11-07",
+                "title": "Grace Hopper"
+              }
+            ],
+            "qualifiers": []
+          }
+        },
+        {
+          "draft-triples": {
+            "subject": "Grace Brewster Hopper",
+            "predicate": "died",
+            "object": "January 1, 1992"
+          },
+          "statement": {
+            "subject": "Q11641",
+            "property": "P570",
+            "object": { "time": "1992-01-01T00:00:00Z", "precision": "day" },
+            "references": [
+              {
+                "reference URL": "https://en.wikipedia.org/wiki/Grace_Hopper",
+                "retrieved": "2026-11-07",
+                "title": "Grace Hopper"
+              }
+            ],
+            "qualifiers": []
+          }
+        },
+        {
+          "draft-triples": {
+            "subject": "Grace Brewster Hopper",
+            "predicate": "was",
+            "object": "American"
+          },
+          "statement": {
+            "subject": "Q11641",
+            "property": "P27",
+            "object": "Q30",
+            "references": [
+              {
+                "reference URL": "https://en.wikipedia.org/wiki/Grace_Hopper",
+                "retrieved": "2026-11-07",
+                "title": "Grace Hopper"
+              }
+            ],
+            "qualifiers": []
+          }
+        },
+        {
+          "draft-triples": {
+            "subject": "Grace Brewster Hopper",
+            "predicate": "was",
+            "object": "computer scientist"
+          },
+          "statement": {
+            "subject": "Q11641",
+            "property": "P106",
+            "object": "Q82594",
+            "references": [
+              {
+                "reference URL": "https://en.wikipedia.org/wiki/Grace_Hopper",
+                "retrieved": "2026-11-07",
+                "title": "Grace Hopper"
+              }
+            ],
+            "qualifiers": []
+          }
+        },
+        {
+          "draft-triples": {
+            "subject": "Grace Brewster Hopper",
+            "predicate": "was",
+            "object": "mathematician"
+          },
+          "statement": {
+            "subject": "Q11641",
+            "property": "P106",
+            "object": "Q170790",
+            "references": [
+              {
+                "reference URL": "https://en.wikipedia.org/wiki/Grace_Hopper",
+                "retrieved": "2026-11-07",
+                "title": "Grace Hopper"
+              }
+            ],
+            "qualifiers": []
+          }
+        },
+        {
+          "draft-triples": {
+            "subject": "Grace Brewster Hopper",
+            "predicate": "was",
+            "object": "United States Navy rear admiral"
+          },
+          "statement": {
+            "subject": "Q11641",
+            "property": "P410",
+            "object": "Q1278830",
+            "references": [
+              {
+                "reference URL": "https://en.wikipedia.org/wiki/Grace_Hopper",
+                "retrieved": "2026-11-07",
+                "title": "Grace Hopper"
+              }
+            ],
+            "qualifiers": []
+          }
+        },
+        {
+          "draft-triples": {
+            "subject": "Grace Brewster Hopper",
+            "predicate": "military branch",
+            "object": "United States Navy"
+          },
+          "statement": {
+            "subject": "Q11641",
+            "property": "P241",
+            "object": "Q11220",
+            "references": [
+              {
+                "reference URL": "https://en.wikipedia.org/wiki/Grace_Hopper",
+                "retrieved": "2026-11-07",
+                "title": "Grace Hopper"
+              }
+            ],
+            "qualifiers": []
+          }
+        }
+      ]
+    },
+    {
+      "sentence": "She was a pioneer of computer programming.",
+      "triples": [
+        {
+          "draft-triples": {
+            "subject": "She",
+            "predicate": "was",
+            "object": "a pioneer of computer programming"
+          },
+          "statement": {
+            "subject": "Q11641",
+            "property": "P101",
+            "object": "Q80006",
+            "references": [
+              {
+                "reference URL": "https://en.wikipedia.org/wiki/Grace_Hopper",
+                "retrieved": "2026-11-07",
+                "title": "Grace Hopper"
+              }
+            ],
+            "qualifiers": []
+          }
+        }
+      ]
+    },
+    {
+      "sentence": "Hopper was the first to devise the theory of machine-independent programming languages, and used this theory to develop the FLOW-MATIC programming language, which was a major influence on COBOL, an early high-level programming language still in use today.",
+      "triples": [
+        {
+          "draft-triples": {
+            "subject": "Hopper",
+            "predicate": "was the first to devise",
+            "object": "the theory of machine-independent programming languages"
+          },
+          "statement": {
+            "subject": "Q11641",
+            "property": "P61",
+            "object": "machine-independent programming languages",
+            "references": [
+              {
+                "reference URL": "https://en.wikipedia.org/wiki/Grace_Hopper",
+                "retrieved": "2026-11-07",
+                "title": "Grace Hopper"
+              }
+            ],
+            "qualifiers": []
+          }
+        },
+        {
+          "draft-triples": {
+            "subject": "Hopper",
+            "predicate": "developed",
+            "object": "FLOW-MATIC"
+          },
+          "statement": {
+            "subject": "Q11641",
+            "property": "P800",
+            "object": "Q1389173",
+            "references": [
+              {
+                "reference URL": "https://en.wikipedia.org/wiki/Grace_Hopper",
+                "retrieved": "2026-11-07",
+                "title": "Grace Hopper"
+              }
+            ],
+            "qualifiers": []
+          }
+        },
+        {
+          "draft-triples": {
+            "subject": "FLOW-MATIC",
+            "predicate": "was",
+            "object": "a programming language"
+          },
+          "statement": {
+            "subject": "Q1389173",
+            "property": "P31",
+            "object": "Q9143",
+            "references": [
+              {
+                "reference URL": "https://en.wikipedia.org/wiki/Grace_Hopper",
+                "retrieved": "2026-11-07",
+                "title": "Grace Hopper"
+              }
+            ],
+            "qualifiers": []
+          }
+        },
+        {
+          "draft-triples": {
+            "subject": "FLOW-MATIC",
+            "predicate": "was a major influence on",
+            "object": "COBOL"
+          },
+          "statement": {
+            "subject": "Q1389173",
+            "property": "P737",
+            "object": "Q131140",
+            "references": [
+              {
+                "reference URL": "https://en.wikipedia.org/wiki/Grace_Hopper",
+                "retrieved": "2026-11-07",
+                "title": "Grace Hopper"
+              }
+            ],
+            "qualifiers": []
+          }
+        },
+        {
+          "draft-triples": {
+            "subject": "COBOL",
+            "predicate": "is",
+            "object": "an early high-level programming language still in use today"
+          },
+          "statement": {
+            "subject": "Q131140",
+            "property": "P31",
+            "object": "Q9143",
+            "references": [
+              {
+                "reference URL": "https://en.wikipedia.org/wiki/Grace_Hopper",
+                "retrieved": "2026-11-07",
+                "title": "Grace Hopper"
+              }
+            ],
+            "qualifiers": []
+          }
+        }
+      ]
+    },
+    {
+      "sentence": "She was also one of the first programmers on the Harvard Mark I computer.",
+      "triples": [
+        {
+          "draft-triples": {
+            "subject": "She",
+            "predicate": "was one of the first programmers on",
+            "object": "Harvard Mark I"
+          },
+          "statement": {
+            "subject": "Q11641",
+            "property": "P108",
+            "object": "Q776823",
+            "references": [
+              {
+                "reference URL": "https://en.wikipedia.org/wiki/Grace_Hopper",
+                "retrieved": "2026-11-07",
+                "title": "Grace Hopper"
+              }
+            ],
+            "qualifiers": []
+          }
+        }
+      ]
+    },
+    {
+      "sentence": "She is credited with writing the first computer manual, \"A Manual of Operation for the Automatic Sequence Controlled Calculator\", and is often credited with creating the first compiler.",
+      "triples": [
+        {
+          "draft-triples": {
+            "subject": "She",
+            "predicate": "is credited with writing",
+            "object": "A Manual of Operation for the Automatic Sequence Controlled Calculator"
+          },
+          "statement": {
+            "subject": "Q11641",
+            "property": "P50",
+            "object": "Q60072124",
+            "references": [
+              {
+                "reference URL": "https://en.wikipedia.org/wiki/Grace_Hopper",
+                "retrieved": "2026-11-07",
+                "title": "Grace Hopper"
+              }
+            ],
+            "qualifiers": []
+          }
+        },
+        {
+          "draft-triples": {
+            "subject": "A Manual of Operation for the Automatic Sequence Controlled Calculator",
+            "predicate": "is",
+            "object": "the first computer manual"
+          },
+          "statement": {
+            "subject": "Q60072124",
+            "property": "P31",
+            "object": "Q1057179",
+            "references": [
+              {
+                "reference URL": "https://en.wikipedia.org/wiki/Grace_Hopper",
+                "retrieved": "2026-11-07",
+                "title": "Grace Hopper"
+              }
+            ],
+            "qualifiers": []
+          }
+        },
+        {
+          "draft-triples": {
+            "subject": "She",
+            "predicate": "is often credited with creating",
+            "object": "the first compiler"
+          },
+          "statement": {
+            "subject": "Q11641",
+            "property": "P50",
+            "object": "Q47506",
+            "references": [
+              {
+                "reference URL": "https://en.wikipedia.org/wiki/Grace_Hopper",
+                "retrieved": "2026-11-07",
+                "title": "Grace Hopper"
+              }
+            ],
+            "qualifiers": []
+          }
+        }
+      ]
+    }
+  ]
+}

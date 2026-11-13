@@ -1,0 +1,180 @@
+{
+  "text": "Linus Benedict Torvalds (born 28 December 1969) is a Finnish and American software engineer who is the creator and lead developer of the Linux kernel since 1991. He also created the distributed version control system Git.",
+  "sentence-triples": [
+    {
+      "sentence": "Linus Benedict Torvalds (born 28 December 1969) is a Finnish and American software engineer who is the creator and lead developer of the Linux kernel since 1991.",
+      "triples": [
+        {
+          "draft-triples": {
+            "subject": "Linus Benedict Torvalds",
+            "predicate": "born",
+            "object": "28 December 1969"
+          },
+          "statement": {
+            "subject": "Q34253",
+            "property": "P569",
+            "object": { "time": "1969-12-28T00:00:00Z", "precision": "day" },
+            "references": [
+              {
+                "reference URL": "https://en.wikipedia.org/wiki/Linus_Torvalds",
+                "retrieved": "2026-11-07",
+                "title": "Linus Torvalds"
+              }
+            ],
+            "qualifiers": []
+          }
+        },
+        {
+          "draft-triples": {
+            "subject": "Linus Benedict Torvalds",
+            "predicate": "is",
+            "object": "Finnish"
+          },
+          "statement": {
+            "subject": "Q34253",
+            "property": "P27",
+            "object": "Q33",
+            "references": [
+              {
+                "reference URL": "https://en.wikipedia.org/wiki/Linus_Torvalds",
+                "retrieved": "2026-11-07",
+                "title": "Linus Torvalds"
+              }
+            ],
+            "qualifiers": []
+          }
+        },
+        {
+          "draft-triples": {
+            "subject": "Linus Benedict Torvalds",
+            "predicate": "is",
+            "object": "American"
+          },
+          "statement": {
+            "subject": "Q34253",
+            "property": "P27",
+            "object": "Q30",
+            "references": [
+              {
+                "reference URL": "https://en.wikipedia.org/wiki/Linus_Torvalds",
+                "retrieved": "2026-11-07",
+                "title": "Linus Torvalds"
+              }
+            ],
+            "qualifiers": []
+          }
+        },
+        {
+          "draft-triples": {
+            "subject": "Linus Benedict Torvalds",
+            "predicate": "is",
+            "object": "software engineer"
+          },
+          "statement": {
+            "subject": "Q34253",
+            "property": "P106",
+            "object": "Q1709010",
+            "references": [
+              {
+                "reference URL": "https://en.wikipedia.org/wiki/Linus_Torvalds",
+                "retrieved": "2026-11-07",
+                "title": "Linus Torvalds"
+              }
+            ],
+            "qualifiers": []
+          }
+        },
+        {
+          "draft-triples": {
+            "subject": "Linus Benedict Torvalds",
+            "predicate": "is the creator of",
+            "object": "Linux kernel"
+          },
+          "statement": {
+            "subject": "Q34253",
+            "property": "P800",
+            "object": "Q14579",
+            "references": [
+              {
+                "reference URL": "https://en.wikipedia.org/wiki/Linus_Torvalds",
+                "retrieved": "2026-11-07",
+                "title": "Linus Torvalds"
+              }
+            ],
+            "qualifiers": []
+          }
+        },
+        {
+          "draft-triples": {
+            "subject": "Linus Benedict Torvalds",
+            "predicate": "is lead developer of",
+            "object": "Linux kernel"
+          },
+          "statement": {
+            "subject": "Q14579",
+            "property": "P178",
+            "object": "Q14579",
+            "references": [
+              {
+                "reference URL": "https://en.wikipedia.org/wiki/Linus_Torvalds",
+                "retrieved": "2026-11-07",
+                "title": "Linus Torvalds"
+              }
+            ],
+            "qualifiers": [
+              {
+                "property": "P580",
+                "object": { "time": "1991-00-00T00:00:00Z", "precision": "year" }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "sentence": "He also created the distributed version control system Git.",
+      "triples": [
+        {
+          "draft-triples": {
+            "subject": "He",
+            "predicate": "created",
+            "object": "Git"
+          },
+          "statement": {
+            "subject": "Q34253",
+            "property": "P800",
+            "object": "Q186055",
+            "references": [
+              {
+                "reference URL": "https://en.wikipedia.org/wiki/Linus_Torvalds",
+                "retrieved": "2026-11-07",
+                "title": "Linus Torvalds"
+              }
+            ],
+            "qualifiers": []
+          }
+        },
+        {
+          "draft-triples": {
+            "subject": "Git",
+            "predicate": "is",
+            "object": "a distributed version control system"
+          },
+          "statement": {
+            "subject": "Q186055",
+            "property": "P31",
+            "object": "Q1186723",
+            "references": [
+              {
+                "reference URL": "https://en.wikipedia.org/wiki/Linus_Torvalds",
+                "retrieved": "2026-11-07",
+                "title": "Linus Torvalds"
+              }
+            ],
+            "qualifiers": []
+          }
+        }
+      ]
+    }
+  ]
+}

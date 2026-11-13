@@ -1,0 +1,215 @@
+{
+  "text": "Hedy Lamarr (/ˈhɛdi/; born Hedwig Eva Maria Kiesler; November 9, 1914 – January 19, 2000) was an Austrian and American actress and inventor. Regarded as a successful film star, she also co-invented a radio guidance system during World War II.",
+  "sentence-triples": [
+    {
+      "sentence": "Hedy Lamarr (born Hedwig Eva Maria Kiesler; November 9, 1914 – January 19, 2000) was an Austrian and American actress and inventor.",
+      "triples": [
+        {
+          "draft-triples": {
+            "subject": "Hedy Lamarr",
+            "predicate": "born",
+            "object": "Hedwig Eva Maria Kiesler"
+          },
+          "statement": {
+            "subject": "Q49034",
+            "property": "P1477",
+            "object": { "text": "Hedwig Eva Maria Kiesler", "language": "en" },
+            "references": [
+              {
+                "reference URL": "https://en.wikipedia.org/wiki/Hedy_Lamarr",
+                "retrieved": "2026-11-07",
+                "title": "Hedy Lamarr"
+              }
+            ],
+            "qualifiers": []
+          }
+        },
+        {
+          "draft-triples": {
+            "subject": "Hedy Lamarr",
+            "predicate": "born",
+            "object": "November 9, 1914"
+          },
+          "statement": {
+            "subject": "Q49034",
+            "property": "P569",
+            "object": { "time": "1914-11-09T00:00:00Z", "precision": "day" },
+            "references": [
+              {
+                "reference URL": "https://en.wikipedia.org/wiki/Hedy_Lamarr",
+                "retrieved": "2026-11-07",
+                "title": "Hedy Lamarr"
+              }
+            ],
+            "qualifiers": []
+          }
+        },
+        {
+          "draft-triples": {
+            "subject": "Hedy Lamarr",
+            "predicate": "died",
+            "object": "January 19, 2000"
+          },
+          "statement": {
+            "subject": "Q49034",
+            "property": "P570",
+            "object": { "time": "2000-01-19T00:00:00Z", "precision": "day" },
+            "references": [
+              {
+                "reference URL": "https://en.wikipedia.org/wiki/Hedy_Lamarr",
+                "retrieved": "2026-11-07",
+                "title": "Hedy Lamarr"
+              }
+            ],
+            "qualifiers": []
+          }
+        },
+        {
+          "draft-triples": {
+            "subject": "Hedy Lamarr",
+            "predicate": "was",
+            "object": "Austrian"
+          },
+          "statement": {
+            "subject": "Q49034",
+            "property": "P27",
+            "object": "Q40",
+            "references": [
+              {
+                "reference URL": "https://en.wikipedia.org/wiki/Hedy_Lamarr",
+                "retrieved": "2026-11-07",
+                "title": "Hedy Lamarr"
+              }
+            ],
+            "qualifiers": []
+          }
+        },
+        {
+          "draft-triples": {
+            "subject": "Hedy Lamarr",
+            "predicate": "was",
+            "object": "American"
+          },
+          "statement": {
+            "subject": "Q49034",
+            "property": "P27",
+            "object": "Q30",
+            "references": [
+              {
+                "reference URL": "https://en.wikipedia.org/wiki/Hedy_Lamarr",
+                "retrieved": "2026-11-07",
+                "title": "Hedy Lamarr"
+              }
+            ],
+            "qualifiers": []
+          }
+        },
+        {
+          "draft-triples": {
+            "subject": "Hedy Lamarr",
+            "predicate": "was",
+            "object": "actress"
+          },
+          "statement": {
+            "subject": "Q49034",
+            "property": "P106",
+            "object": "Q33999",
+            "references": [
+              {
+                "reference URL": "https://en.wikipedia.org/wiki/Hedy_Lamarr",
+                "retrieved": "2026-11-07",
+                "title": "Hedy Lamarr"
+              }
+            ],
+            "qualifiers": []
+          }
+        },
+        {
+          "draft-triples": {
+            "subject": "Hedy Lamarr",
+            "predicate": "was",
+            "object": "inventor"
+          },
+          "statement": {
+            "subject": "Q49034",
+            "property": "P106",
+            "object": "Q205375",
+            "references": [
+              {
+                "reference URL": "https://en.wikipedia.org/wiki/Hedy_Lamarr",
+                "retrieved": "2026-11-07",
+                "title": "Hedy Lamarr"
+              }
+            ],
+            "qualifiers": []
+          }
+        }
+      ]
+    },
+    {
+      "sentence": "Regarded as a successful film star, she also co-invented a radio guidance system during World War II.",
+      "triples": [
+        {
+          "draft-triples": {
+            "subject": "she",
+            "predicate": "regarded as",
+            "object": "a successful film star"
+          },
+          "statement": {
+            "subject": "Q49034",
+            "property": "P106",
+            "object": "Q10800557",
+            "references": [
+              {
+                "reference URL": "https://en.wikipedia.org/wiki/Hedy_Lamarr",
+                "retrieved": "2026-11-07",
+                "title": "Hedy Lamarr"
+              }
+            ],
+            "qualifiers": []
+          }
+        },
+        {
+          "draft-triples": {
+            "subject": "she",
+            "predicate": "co-invented",
+            "object": "a radio guidance system"
+          },
+          "statement": {
+            "subject": "Q49034",
+            "property": "P170",
+            "object": "Q42947171",
+            "references": [
+              {
+                "reference URL": "https://en.wikipedia.org/wiki/Hedy_Lamarr",
+                "retrieved": "2026-11-07",
+                "title": "Hedy Lamarr"
+              }
+            ],
+            "qualifiers": []
+          }
+        },
+        {
+          "draft-triples": {
+            "subject": "she",
+            "predicate": "co-invented a radio guidance system during",
+            "object": "World War II"
+          },
+          "statement": {
+            "subject": "Q49034",
+            "property": "P170",
+            "object": "Q42947171",
+            "references": [
+              {
+                "reference URL": "https://en.wikipedia.org/wiki/Hedy_Lamarr",
+                "retrieved": "2026-11-07",
+                "title": "Hedy Lamarr"
+              }
+            ],
+            "qualifiers": []
+          }
+        }
+      ]
+    }
+  ]
+}

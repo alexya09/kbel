@@ -1,0 +1,220 @@
+{
+  "text": "Augusta Ada King, Countess of Lovelace (née Byron; 10 December 1815 – 27 November 1852), also known as Ada Lovelace, was an English mathematician and writer chiefly known for work on Charles Babbage's proposed mechanical general-purpose computer, the analytical engine. She was the first to recognise the machine had applications beyond pure calculation. Lovelace is often considered the first computer programmer.",
+  "sentence-triples": [
+    {
+      "sentence": "Augusta Ada King, Countess of Lovelace (née Byron; 10 December 1815 – 27 November 1852), also known as Ada Lovelace, was an English mathematician and writer chiefly known for work on Charles Babbage's proposed mechanical general-purpose computer, the analytical engine.",
+      "triples": [
+        {
+          "draft-triples": {
+            "subject": "Augusta Ada King, Countess of Lovelace",
+            "predicate": "née",
+            "object": "Byron"
+          },
+          "statement": {
+            "subject": "Q7259",
+            "property": "P1477",
+            "object": { "text": "Augusta Ada Byron", "language": "en-gb" },
+            "references": [
+              {
+                "reference URL": "https://en.wikipedia.org/wiki/Ada_Lovelace",
+                "retrieved": "2026-11-07",
+                "title": "Ada Lovelace"
+              }
+            ],
+            "qualifiers": []
+          }
+        },
+        {
+          "draft-triples": {
+            "subject": "Augusta Ada King, Countess of Lovelace",
+            "predicate": "born",
+            "object": "10 December 1815"
+          },
+          "statement": {
+            "subject": "Q7259",
+            "property": "P569",
+            "object": { "time": "1815-12-10T00:00:00Z", "precision": "day" },
+            "references": [
+              {
+                "reference URL": "https://en.wikipedia.org/wiki/Ada_Lovelace",
+                "retrieved": "2026-11-07",
+                "title": "Ada Lovelace"
+              }
+            ],
+            "qualifiers": []
+          }
+        },
+        {
+          "draft-triples": {
+            "subject": "Augusta Ada King, Countess of Lovelace",
+            "predicate": "died",
+            "object": "27 November 1852"
+          },
+          "statement": {
+            "subject": "Q7259",
+            "property": "P570",
+            "object": { "time": "1852-11-27T00:00:00Z", "precision": "day" },
+            "references": [
+              {
+                "reference URL": "https://en.wikipedia.org/wiki/Ada_Lovelace",
+                "retrieved": "2026-11-07",
+                "title": "Ada Lovelace"
+              }
+            ],
+            "qualifiers": []
+          }
+        },
+        {
+          "draft-triples": {
+            "subject": "Augusta Ada King, Countess of Lovelace",
+            "predicate": "was",
+            "object": "English"
+          },
+          "statement": {
+            "subject": "Q7259",
+            "property": "P27",
+            "object": "Q145",
+            "references": [
+              {
+                "reference URL": "https://en.wikipedia.org/wiki/Ada_Lovelace",
+                "retrieved": "2026-11-07",
+                "title": "Ada Lovelace"
+              }
+            ],
+            "qualifiers": []
+          }
+        },
+        {
+          "draft-triples": {
+            "subject": "Augusta Ada King, Countess of Lovelace",
+            "predicate": "was",
+            "object": "mathematician"
+          },
+          "statement": {
+            "subject": "Q7259",
+            "property": "P106",
+            "object": "Q170790",
+            "references": [
+              {
+                "reference URL": "https://en.wikipedia.org/wiki/Ada_Lovelace",
+                "retrieved": "2026-11-07",
+                "title": "Ada Lovelace"
+              }
+            ],
+            "qualifiers": []
+          }
+        },
+        {
+          "draft-triples": {
+            "subject": "Augusta Ada King, Countess of Lovelace",
+            "predicate": "was",
+            "object": "writer"
+          },
+          "statement": {
+            "subject": "Q7259",
+            "property": "P106",
+            "object": "Q36180",
+            "references": [
+              {
+                "reference URL": "https://en.wikipedia.org/wiki/Ada_Lovelace",
+                "retrieved": "2026-11-07",
+                "title": "Ada Lovelace"
+              }
+            ],
+            "qualifiers": []
+          }
+        },
+        {
+          "draft-triples": {
+            "subject": "Augusta Ada King, Countess of Lovelace",
+            "predicate": "also known",
+            "object": "Ada Lovelace"
+          },
+          "statement": {
+            "subject": "Q7259",
+            "property": "P2561",
+            "object": "Q7259",
+            "references": [
+              {
+                "reference URL": "https://en.wikipedia.org/wiki/Ada_Lovelace",
+                "retrieved": "2026-11-07",
+                "title": "Ada Lovelace"
+              }
+            ],
+            "qualifiers": []
+          }
+        },
+        {
+          "draft-triples": {
+            "subject": "Augusta Ada King, Countess of Lovelace",
+            "predicate": "chiefly known for work",
+            "object": "Charles Babbage's proposed mechanical general-purpose computer, the analytical engine"
+          },
+          "statement": {
+            "subject": "Q7259",
+            "property": "P3342",
+            "object": "Q46633",
+            "references": [
+              {
+                "reference URL": "https://en.wikipedia.org/wiki/Ada_Lovelace",
+                "retrieved": "2026-11-07",
+                "title": "Ada Lovelace"
+              }
+            ],
+            "qualifiers": []
+          }
+        }
+      ]
+    },
+    {
+      "sentence": "She was the first to recognise the machine had applications beyond pure calculation.",
+      "triples": [
+        {
+          "draft-triples": {
+            "subject": "She",
+            "predicate": "was",
+            "object": "the first to recognise the machine had applications beyond pure calculation"
+          },
+          "statement": {
+            "subject": "Q7259",
+            "property": "P61",
+            "object": "",
+            "references": [
+              {
+                "reference URL": "https://en.wikipedia.org/wiki/Ada_Lovelace",
+                "retrieved": "2026-11-07",
+                "title": "Ada Lovelace"
+              }
+            ],
+            "qualifiers": []
+          }
+        }
+      ]
+    },
+    {
+      "sentence": "Lovelace is often considered the first computer programmer.",
+      "triples": [
+        {
+          "draft-triples": {
+            "subject": "Lovelace",
+            "predicate": "is",
+            "object": "often considered the first computer programmer"
+          },
+          "statement": {
+            "subject": "Q7259",
+            "property": "P106",
+            "object": "Q5482740",
+            "references": [
+              {
+                "reference URL": "https://en.wikipedia.org/wiki/Ada_Lovelace",
+                "retrieved": "2026-11-07",
+                "title": "Ada Lovelace"
+              }
+            ],
+            "qualifiers": []
+          }
+        }
+      ]
+    }
+  ]
+}

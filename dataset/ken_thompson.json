@@ -1,0 +1,365 @@
+{
+  "text": "Kenneth Lane Thompson (born February 4, 1943) is an American pioneer of computer science. Thompson worked at Bell Labs for most of his career where he designed and implemented the original Unix operating system. He also invented the B programming language, the direct predecessor to the C language, and was one of the creators and early developers of the Plan 9 operating system. Other notable contributions included his work on regular expressions and early computer text editors QED and ed, the definition of the UTF-8 encoding, and his work on computer chess that included the creation of endgame tablebases and the chess machine Belle.",
+  "sentence-triples": [
+    {
+      "sentence": "Kenneth Lane Thompson (born February 4, 1943) is an American pioneer of computer science.",
+      "triples": [
+        {
+          "draft-triples": {
+            "subject": "Kenneth Lane Thompson",
+            "predicate": "born",
+            "object": "February 4, 1943"
+          },
+          "statement": {
+            "subject": "Q1107006",
+            "property": "P569",
+            "object": { "time": "1943-02-04T00:00:00Z", "precision": "day" },
+            "references": [
+              {
+                "reference URL": "https://en.wikipedia.org/wiki/Ken_Thompson",
+                "retrieved": "2026-11-07",
+                "title": "Ken Thompson"
+              }
+            ],
+            "qualifiers": []
+          }
+        },
+        {
+          "draft-triples": {
+            "subject": "Kenneth Lane Thompson",
+            "predicate": "is",
+            "object": "American"
+          },
+          "statement": {
+            "subject": "Q1107006",
+            "property": "P27",
+            "object": "Q30",
+            "references": [
+              {
+                "reference URL": "https://en.wikipedia.org/wiki/Ken_Thompson",
+                "retrieved": "2026-11-07",
+                "title": "Ken Thompson"
+              }
+            ],
+            "qualifiers": []
+          }
+        },
+        {
+          "draft-triples": {
+            "subject": "Kenneth Lane Thompson",
+            "predicate": "is",
+            "object": "a pioneer of computer science"
+          },
+          "statement": {
+            "subject": "Q1107006",
+            "property": "P101",
+            "object": "Q21198",
+            "references": [
+              {
+                "reference URL": "https://en.wikipedia.org/wiki/Ken_Thompson",
+                "retrieved": "2026-11-07",
+                "title": "Ken Thompson"
+              }
+            ],
+            "qualifiers": []
+          }
+        }
+      ]
+    },
+    {
+      "sentence": "Thompson worked at Bell Labs for most of his career where he designed and implemented the original Unix operating system.",
+      "triples": [
+        {
+          "draft-triples": {
+            "subject": "Thompson",
+            "predicate": "worked at",
+            "object": "Bell Labs"
+          },
+          "statement": {
+            "subject": "Q1107006",
+            "property": "P108",
+            "object": "Q217365",
+            "references": [
+              {
+                "reference URL": "https://en.wikipedia.org/wiki/Ken_Thompson",
+                "retrieved": "2026-11-07",
+                "title": "Ken Thompson"
+              }
+            ],
+            "qualifiers": []
+          }
+        },
+        {
+          "draft-triples": {
+            "subject": "Thompson",
+            "predicate": "designed and implemented",
+            "object": "the original Unix operating system"
+          },
+          "statement": {
+            "subject": "Q1107006",
+            "property": "P800",
+            "object": "Q11368",
+            "references": [
+              {
+                "reference URL": "https://en.wikipedia.org/wiki/Ken_Thompson",
+                "retrieved": "2026-11-07",
+                "title": "Ken Thompson"
+              }
+            ],
+            "qualifiers": []
+          }
+        },
+        {
+          "draft-triples": {
+            "subject": "Unix",
+            "predicate": "is",
+            "object": "an operating system"
+          },
+          "statement": {
+            "subject": "Q11368",
+            "property": "P31",
+            "object": "Q9135",
+            "references": [
+              {
+                "reference URL": "https://en.wikipedia.org/wiki/Ken_Thompson",
+                "retrieved": "2026-11-07",
+                "title": "Ken Thompson"
+              }
+            ],
+            "qualifiers": []
+          }
+        }
+      ]
+    },
+    {
+      "sentence": "He also invented the B programming language, the direct predecessor to the C language, and was one of the creators and early developers of the Plan 9 operating system.",
+      "triples": [
+        {
+          "draft-triples": {
+            "subject": "He",
+            "predicate": "invented",
+            "object": "B programming language"
+          },
+          "statement": {
+            "subject": "Q1107006",
+            "property": "P800",
+            "object": "Q797302",
+            "references": [
+              {
+                "reference URL": "https://en.wikipedia.org/wiki/Ken_Thompson",
+                "retrieved": "2026-11-07",
+                "title": "Ken Thompson"
+              }
+            ],
+            "qualifiers": []
+          }
+        },
+        {
+          "draft-triples": {
+            "subject": "B programming language",
+            "predicate": "is the direct predecessor to",
+            "object": "C language"
+          },
+          "statement": {
+            "subject": "Q797302",
+            "property": "P156",
+            "object": "Q15777",
+            "references": [
+              {
+                "reference URL": "https://en.wikipedia.org/wiki/Ken_Thompson",
+                "retrieved": "2026-11-07",
+                "title": "Ken Thompson"
+              }
+            ],
+            "qualifiers": []
+          }
+        },
+        {
+          "draft-triples": {
+            "subject": "He",
+            "predicate": "was one of the creators and early developers of",
+            "object": "Plan 9 operating system"
+          },
+          "statement": {
+            "subject": "Q1107006",
+            "property": "P800",
+            "object": "Q725779",
+            "references": [
+              {
+                "reference URL": "https://en.wikipedia.org/wiki/Ken_Thompson",
+                "retrieved": "2026-11-07",
+                "title": "Ken Thompson"
+              }
+            ],
+            "qualifiers": []
+          }
+        },
+        {
+          "draft-triples": {
+            "subject": "Plan 9",
+            "predicate": "is",
+            "object": "an operating system"
+          },
+          "statement": {
+            "subject": "Q725779",
+            "property": "P31",
+            "object": "Q9135",
+            "references": [
+              {
+                "reference URL": "https://en.wikipedia.org/wiki/Ken_Thompson",
+                "retrieved": "2026-11-07",
+                "title": "Ken Thompson"
+              }
+            ],
+            "qualifiers": []
+          }
+        }
+      ]
+    },
+    {
+      "sentence": "Other notable contributions included his work on regular expressions and early computer text editors QED and ed, the definition of the UTF-8 encoding, and his work on computer chess that included the creation of endgame tablebases and the chess machine Belle.",
+      "triples": [
+        {
+          "draft-triples": {
+            "subject": "His",
+            "predicate": "notable contributions included work on",
+            "object": "regular expressions"
+          },
+          "statement": {
+            "subject": "Q1107006",
+            "property": "P800",
+            "object": "Q185612",
+            "references": [
+              {
+                "reference URL": "https://en.wikipedia.org/wiki/Ken_Thompson",
+                "retrieved": "2026-11-07",
+                "title": "Ken Thompson"
+              }
+            ],
+            "qualifiers": []
+          }
+        },
+        {
+          "draft-triples": {
+            "subject": "His",
+            "predicate": "notable contributions included work on early computer text editor",
+            "object": "QED"
+          },
+          "statement": {
+            "subject": "Q1107006",
+            "property": "P800",
+            "object": "Q1055723",
+            "references": [
+              {
+                "reference URL": "https://en.wikipedia.org/wiki/Ken_Thompson",
+                "retrieved": "2026-11-07",
+                "title": "Ken Thompson"
+              }
+            ],
+            "qualifiers": []
+          }
+        },
+        {
+          "draft-triples": {
+            "subject": "His",
+            "predicate": "notable contributions included work on early computer text editor",
+            "object": "ed"
+          },
+          "statement": {
+            "subject": "Q1107006",
+            "property": "P800",
+            "object": "Q1055723",
+            "references": [
+              {
+                "reference URL": "https://en.wikipedia.org/wiki/Ken_Thompson",
+                "retrieved": "2026-11-07",
+                "title": "Ken Thompson"
+              }
+            ],
+            "qualifiers": []
+          }
+        },
+        {
+          "draft-triples": {
+            "subject": "His",
+            "predicate": "notable contributions included the definition of",
+            "object": "UTF-8 encoding"
+          },
+          "statement": {
+            "subject": "Q1107006",
+            "property": "P800",
+            "object": "Q193537",
+            "references": [
+              {
+                "reference URL": "https://en.wikipedia.org/wiki/Ken_Thompson",
+                "retrieved": "2026-11-07",
+                "title": "Ken Thompson"
+              }
+            ],
+            "qualifiers": []
+          }
+        },
+        {
+          "draft-triples": {
+            "subject": "His",
+            "predicate": "notable contributions included work on",
+            "object": "computer chess"
+          },
+          "statement": {
+            "subject": "Q1107006",
+            "property": "P800",
+            "object": "Q1122588",
+            "references": [
+              {
+                "reference URL": "https://en.wikipedia.org/wiki/Ken_Thompson",
+                "retrieved": "2026-11-07",
+                "title": "Ken Thompson"
+              }
+            ],
+            "qualifiers": []
+          }
+        },
+        {
+          "draft-triples": {
+            "subject": "His",
+            "predicate": "work on computer chess included the creation of",
+            "object": "endgame tablebases"
+          },
+          "statement": {
+            "subject": "Q1107006",
+            "property": "P101",
+            "object": "Q1340994",
+            "references": [
+              {
+                "reference URL": "https://en.wikipedia.org/wiki/Ken_Thompson",
+                "retrieved": "2026-11-07",
+                "title": "Ken Thompson"
+              }
+            ],
+            "qualifiers": []
+          }
+        },
+        {
+          "draft-triples": {
+            "subject": "His",
+            "predicate": "work on computer chess included the creation of",
+            "object": "the chess machine Belle"
+          },
+          "statement": {
+            "subject": "Q1107006",
+            "property": "P101",
+            "object": "Q2746807",
+            "references": [
+              {
+                "reference URL": "https://en.wikipedia.org/wiki/Ken_Thompson",
+                "retrieved": "2026-11-07",
+                "title": "Ken Thompson"
+              }
+            ],
+            "qualifiers": []
+          }
+        }
+      ]
+    }
+  ]
+}

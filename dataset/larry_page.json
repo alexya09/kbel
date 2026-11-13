@@ -1,0 +1,265 @@
+{
+  "text": "Lawrence Edward Page (born March 26, 1973) is an American businessman and computer scientist who co-founded Google with Sergey Brin. Page is a centibillionaire and among the richest people in the world. As of 2026, the Bloomberg Billionaires Index and Forbes estimated his net worth at US$334.1 billion, positioning him as the second-wealthiest individual in the world.",
+  "sentence-triples": [
+    {
+      "sentence": "Lawrence Edward Page (born March 26, 1973) is an American businessman and computer scientist who co-founded Google with Sergey Brin.",
+      "triples": [
+        {
+          "draft-triples": {
+            "subject": "Lawrence Edward Page",
+            "predicate": "born",
+            "object": "March 26, 1973"
+          },
+          "statement": {
+            "subject": "Q4934",
+            "property": "P569",
+            "object": { "time": "1973-03-26T00:00:00Z", "precision": "day" },
+            "references": [
+              {
+                "reference URL": "https://en.wikipedia.org/wiki/Larry_Page",
+                "retrieved": "2026-11-07",
+                "title": "Larry Page"
+              }
+            ],
+            "qualifiers": []
+          }
+        },
+        {
+          "draft-triples": {
+            "subject": "Lawrence Edward Page",
+            "predicate": "is",
+            "object": "American"
+          },
+          "statement": {
+            "subject": "Q4934",
+            "property": "P27",
+            "object": "Q30",
+            "references": [
+              {
+                "reference URL": "https://en.wikipedia.org/wiki/Larry_Page",
+                "retrieved": "2026-11-07",
+                "title": "Larry Page"
+              }
+            ],
+            "qualifiers": []
+          }
+        },
+        {
+          "draft-triples": {
+            "subject": "Lawrence Edward Page",
+            "predicate": "is",
+            "object": "businessman"
+          },
+          "statement": {
+            "subject": "Q4934",
+            "property": "P106",
+            "object": "Q43845",
+            "references": [
+              {
+                "reference URL": "https://en.wikipedia.org/wiki/Larry_Page",
+                "retrieved": "2026-11-07",
+                "title": "Larry Page"
+              }
+            ],
+            "qualifiers": []
+          }
+        },
+        {
+          "draft-triples": {
+            "subject": "Lawrence Edward Page",
+            "predicate": "is",
+            "object": "computer scientist"
+          },
+          "statement": {
+            "subject": "Q4934",
+            "property": "P106",
+            "object": "Q82594",
+            "references": [
+              {
+                "reference URL": "https://en.wikipedia.org/wiki/Larry_Page",
+                "retrieved": "2026-11-07",
+                "title": "Larry Page"
+              }
+            ],
+            "qualifiers": []
+          }
+        },
+        {
+          "draft-triples": {
+            "subject": "Lawrence Edward Page",
+            "predicate": "co-founded",
+            "object": "Google"
+          },
+          "statement": {
+            "subject": "Q4934",
+            "property": "P112",
+            "object": "Q95",
+            "references": [
+              {
+                "reference URL": "https://en.wikipedia.org/wiki/Larry_Page",
+                "retrieved": "2026-11-07",
+                "title": "Larry Page"
+              }
+            ],
+            "qualifiers": []
+          }
+        },
+        {
+          "draft-triples": {
+            "subject": "Sergey Brin",
+            "predicate": "co-founded Google with",
+            "object": "Lawrence Edward Page"
+          },
+          "statement": {
+            "subject": "Q92764",
+            "property": "P112",
+            "object": "Q95",
+            "references": [
+              {
+                "reference URL": "https://en.wikipedia.org/wiki/Larry_Page",
+                "retrieved": "2026-11-07",
+                "title": "Larry Page"
+              }
+            ],
+            "qualifiers": []
+          }
+        }
+      ]
+    },
+    {
+      "sentence": "Page is a centibillionaire and among the richest people in the world.",
+      "triples": [
+        {
+          "draft-triples": {
+            "subject": "Page",
+            "predicate": "is",
+            "object": "a centibillionaire"
+          },
+          "statement": {
+            "subject": "Q4934",
+            "property": "P2218",
+            "object": "236900000000 USD",
+            "references": [
+              {
+                "reference URL": "https://en.wikipedia.org/wiki/Larry_Page",
+                "retrieved": "2026-11-07",
+                "title": "Larry Page"
+              }
+            ],
+            "qualifiers": []
+          }
+        },
+        {
+          "draft-triples": {
+            "subject": "Page",
+            "predicate": "is among",
+            "object": "the richest people in the world"
+          },
+          "statement": {
+            "subject": "Q4934",
+            "property": "P1352",
+            "object": "Q493078",
+            "references": [
+              {
+                "reference URL": "https://en.wikipedia.org/wiki/Larry_Page",
+                "retrieved": "2026-11-07",
+                "title": "Larry Page"
+              }
+            ],
+            "qualifiers": []
+          }
+        }
+      ]
+    },
+    {
+      "sentence": "As of 2026, the Bloomberg Billionaires Index and Forbes estimated his net worth at US$334.1 billion, positioning him as the second-wealthiest individual in the world.",
+      "triples": [
+        {
+          "draft-triples": {
+            "subject": "Page",
+            "predicate": "net worth as of 2026",
+            "object": "US$334.1 billion"
+          },
+          "statement": {
+            "subject": "Q4934",
+            "property": "P2218",
+            "object": { "amount": "+334100000000", "unit": "Q4917" },
+            "references": [
+              {
+                "reference URL": "https://en.wikipedia.org/wiki/Larry_Page",
+                "retrieved": "2026-11-07",
+                "title": "Larry Page"
+              }
+            ],
+            "qualifiers": [
+              {
+                "property": "P585",
+                "object": { "time": "2026-00-00T00:00:00Z", "precision": "year" }
+              }
+            ]
+          }
+        },
+        {
+          "draft-triples": {
+            "subject": "Bloomberg Billionaires Index",
+            "predicate": "estimated net worth of Page at",
+            "object": "US$334.1 billion"
+          },
+          "statement": {
+            "subject": "",
+            "property": "P2218",
+            "object": "334100000000 USD",
+            "references": [
+              {
+                "reference URL": "https://en.wikipedia.org/wiki/Larry_Page",
+                "retrieved": "2026-11-07",
+                "title": "Larry Page"
+              }
+            ],
+            "qualifiers": []
+          }
+        },
+        {
+          "draft-triples": {
+            "subject": "Forbes",
+            "predicate": "estimated net worth of Page at",
+            "object": "US$334.1 billion"
+          },
+          "statement": {
+            "subject": "Q25161472",
+            "property": "P2218",
+            "object": "334100000000 USD",
+            "references": [
+              {
+                "reference URL": "https://en.wikipedia.org/wiki/Larry_Page",
+                "retrieved": "2026-11-07",
+                "title": "Larry Page"
+              }
+            ],
+            "qualifiers": []
+          }
+        },
+        {
+          "draft-triples": {
+            "subject": "Page",
+            "predicate": "is positioned as",
+            "object": "the second-wealthiest individual in the world"
+          },
+          "statement": {
+            "subject": "Q4934",
+            "property": "P1352",
+            "object": "the second-wealthiest individual in the world",
+            "references": [
+              {
+                "reference URL": "https://en.wikipedia.org/wiki/Larry_Page",
+                "retrieved": "2026-11-07",
+                "title": "Larry Page"
+              }
+            ],
+            "qualifiers": []
+          }
+        }
+      ]
+    }
+  ]
+}

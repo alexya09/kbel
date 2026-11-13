@@ -1,0 +1,210 @@
+{
+  "text": "Guido van Rossum (Dutch: [ˈxidoː vɑn ˈrɔsʏm]; born 31 January 1956) is a Dutch programmer. He is the creator of the Python programming language, for which he was the \"benevolent dictator for life\" (BDFL) until he stepped down from the position on 12 July 2018. He remained a member of the Python Steering Council through 2019, and withdrew from nominations for the 2020 election.",
+  "sentence-triples": [
+    {
+      "sentence": "Guido van Rossum (born 31 January 1956) is a Dutch programmer.",
+      "triples": [
+        {
+          "draft-triples": {
+            "subject": "Guido van Rossum",
+            "predicate": "born",
+            "object": "31 January 1956"
+          },
+          "statement": {
+            "subject": "Q30942",
+            "property": "P569",
+            "object": { "time": "1956-01-31T00:00:00Z", "precision": "day" },
+            "references": [
+              {
+                "reference URL": "https://en.wikipedia.org/wiki/Guido_van_Rossum",
+                "retrieved": "2026-11-07",
+                "title": "Guido van Rossum"
+              }
+            ],
+            "qualifiers": []
+          }
+        },
+        {
+          "draft-triples": {
+            "subject": "Guido van Rossum",
+            "predicate": "is",
+            "object": "Dutch"
+          },
+          "statement": {
+            "subject": "Q30942",
+            "property": "P27",
+            "object": "Q55",
+            "references": [
+              {
+                "reference URL": "https://en.wikipedia.org/wiki/Guido_van_Rossum",
+                "retrieved": "2026-11-07",
+                "title": "Guido van Rossum"
+              }
+            ],
+            "qualifiers": []
+          }
+        },
+        {
+          "draft-triples": {
+            "subject": "Guido van Rossum",
+            "predicate": "is",
+            "object": "programmer"
+          },
+          "statement": {
+            "subject": "Q30942",
+            "property": "P106",
+            "object": "Q5482740",
+            "references": [
+              {
+                "reference URL": "https://en.wikipedia.org/wiki/Guido_van_Rossum",
+                "retrieved": "2026-11-07",
+                "title": "Guido van Rossum"
+              }
+            ],
+            "qualifiers": []
+          }
+        }
+      ]
+    },
+    {
+      "sentence": "He is the creator of the Python programming language, for which he was the \"benevolent dictator for life\" (BDFL) until he stepped down from the position on 12 July 2018.",
+      "triples": [
+        {
+          "draft-triples": {
+            "subject": "He",
+            "predicate": "is the creator of",
+            "object": "Python programming language"
+          },
+          "statement": {
+            "subject": "Q30942",
+            "property": "P800",
+            "object": "Q28865",
+            "references": [
+              {
+                "reference URL": "https://en.wikipedia.org/wiki/Guido_van_Rossum",
+                "retrieved": "2026-11-07",
+                "title": "Guido van Rossum"
+              }
+            ],
+            "qualifiers": []
+          }
+        },
+        {
+          "draft-triples": {
+            "subject": "Python",
+            "predicate": "is",
+            "object": "a programming language"
+          },
+          "statement": {
+            "subject": "Q28865",
+            "property": "P31",
+            "object": "Q9143",
+            "references": [
+              {
+                "reference URL": "https://en.wikipedia.org/wiki/Guido_van_Rossum",
+                "retrieved": "2026-11-07",
+                "title": "Guido van Rossum"
+              }
+            ],
+            "qualifiers": []
+          }
+        },
+        {
+          "draft-triples": {
+            "subject": "He",
+            "predicate": "was",
+            "object": "benevolent dictator for life of Python"
+          },
+          "statement": {
+            "subject": "Q30942",
+            "property": "P39",
+            "object": "Q11271",
+            "references": [
+              {
+                "reference URL": "https://en.wikipedia.org/wiki/Guido_van_Rossum",
+                "retrieved": "2026-11-07",
+                "title": "Guido van Rossum"
+              }
+            ],
+            "qualifiers": []
+          }
+        },
+        {
+          "draft-triples": {
+            "subject": "He",
+            "predicate": "stepped down from BDFL position on",
+            "object": "12 July 2018"
+          },
+          "statement": {
+            "subject": "Q30942",
+            "property": "P39",
+            "object": "Q11271",
+            "references": [
+              {
+                "reference URL": "https://en.wikipedia.org/wiki/Guido_van_Rossum",
+                "retrieved": "2026-11-07",
+                "title": "Guido van Rossum"
+              }
+            ],
+            "qualifiers": [
+              {
+                "property": "P582",
+                "object": { "time": "2018-07-12T00:00:00Z", "precision": "day" }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "sentence": "He remained a member of the Python Steering Council through 2019, and withdrew from nominations for the 2020 election.",
+      "triples": [
+        {
+          "draft-triples": {
+            "subject": "He",
+            "predicate": "remained a member of",
+            "object": "Python Steering Council"
+          },
+          "statement": {
+            "subject": "Q30942",
+            "property": "P39",
+            "object": "Python Steering Council",
+            "references": [
+              {
+                "reference URL": "https://en.wikipedia.org/wiki/Guido_van_Rossum",
+                "retrieved": "2026-11-07",
+                "title": "Guido van Rossum"
+              }
+            ],
+            "qualifiers": [
+              {
+                "property": "P582",
+                "object": { "time": "2019-00-00T00:00:00Z", "precision": "year" }
+              }
+            ]
+          }
+        },
+        {
+          "draft-triples": {
+            "subject": "He",
+            "predicate": "withdrew from nominations for",
+            "object": "the 2020 election"
+          },
+          "statement": {
+            "subject": "Q30942",
+            "property": "",
+            "object": "",
+            "references": [
+              {
+                "reference URL": "https://en.wikipedia.org/wiki/Guido_van_Rossum",
+                "retrieved": "2026-11-07",
+                "title": "Guido van Rossum"
+              }
+            ],
+            "qualifiers": []
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,340 @@
+{
+  "text": "Mary Jackson (née Winston; April 9, 1921 – February 11, 2005) was an American aerospace engineer and mathematician at the National Advisory Committee for Aeronautics (NACA), which in 1958 was succeeded by the National Aeronautics and Space Administration (NASA). She worked at Langley Research Center in Hampton, Virginia, for most of her career. She started as a computer at the segregated West Area Computing division in 1951. In 1958, after taking engineering classes, she became NASA's first black female engineer.",
+  "sentence-triples": [
+    {
+      "sentence": "Mary Jackson (née Winston; April 9, 1921 – February 11, 2005) was an American aerospace engineer and mathematician at the National Advisory Committee for Aeronautics (NACA), which in 1958 was succeeded by the National Aeronautics and Space Administration (NASA).",
+      "triples": [
+        {
+          "draft-triples": {
+            "subject": "Mary Jackson",
+            "predicate": "née",
+            "object": "Winston"
+          },
+          "statement": {
+            "subject": "Q27221300",
+            "property": "P1477",
+            "object": { "text": "Mary Winston", "language": "en" },
+            "references": [
+              {
+                "reference URL": "https://en.wikipedia.org/wiki/Mary_Jackson_(engineer)",
+                "retrieved": "2026-11-07",
+                "title": "Mary Jackson (engineer)"
+              }
+            ],
+            "qualifiers": []
+          }
+        },
+        {
+          "draft-triples": {
+            "subject": "Mary Jackson",
+            "predicate": "born",
+            "object": "April 9, 1921"
+          },
+          "statement": {
+            "subject": "Q27221300",
+            "property": "P569",
+            "object": { "time": "1921-04-09T00:00:00Z", "precision": "day" },
+            "references": [
+              {
+                "reference URL": "https://en.wikipedia.org/wiki/Mary_Jackson_(engineer)",
+                "retrieved": "2026-11-07",
+                "title": "Mary Jackson (engineer)"
+              }
+            ],
+            "qualifiers": []
+          }
+        },
+        {
+          "draft-triples": {
+            "subject": "Mary Jackson",
+            "predicate": "died",
+            "object": "February 11, 2005"
+          },
+          "statement": {
+            "subject": "Q27221300",
+            "property": "P570",
+            "object": { "time": "2005-02-11T00:00:00Z", "precision": "day" },
+            "references": [
+              {
+                "reference URL": "https://en.wikipedia.org/wiki/Mary_Jackson_(engineer)",
+                "retrieved": "2026-11-07",
+                "title": "Mary Jackson (engineer)"
+              }
+            ],
+            "qualifiers": []
+          }
+        },
+        {
+          "draft-triples": {
+            "subject": "Mary Jackson",
+            "predicate": "was",
+            "object": "American"
+          },
+          "statement": {
+            "subject": "Q27221300",
+            "property": "P27",
+            "object": "Q30",
+            "references": [
+              {
+                "reference URL": "https://en.wikipedia.org/wiki/Mary_Jackson_(engineer)",
+                "retrieved": "2026-11-07",
+                "title": "Mary Jackson (engineer)"
+              }
+            ],
+            "qualifiers": []
+          }
+        },
+        {
+          "draft-triples": {
+            "subject": "Mary Jackson",
+            "predicate": "was",
+            "object": "aerospace engineer"
+          },
+          "statement": {
+            "subject": "Q27221300",
+            "property": "P106",
+            "object": "Q15895020",
+            "references": [
+              {
+                "reference URL": "https://en.wikipedia.org/wiki/Mary_Jackson_(engineer)",
+                "retrieved": "2026-11-07",
+                "title": "Mary Jackson (engineer)"
+              }
+            ],
+            "qualifiers": []
+          }
+        },
+        {
+          "draft-triples": {
+            "subject": "Mary Jackson",
+            "predicate": "was",
+            "object": "mathematician"
+          },
+          "statement": {
+            "subject": "Q27221300",
+            "property": "P106",
+            "object": "Q170790",
+            "references": [
+              {
+                "reference URL": "https://en.wikipedia.org/wiki/Mary_Jackson_(engineer)",
+                "retrieved": "2026-11-07",
+                "title": "Mary Jackson (engineer)"
+              }
+            ],
+            "qualifiers": []
+          }
+        },
+        {
+          "draft-triples": {
+            "subject": "Mary Jackson",
+            "predicate": "worked at",
+            "object": "National Advisory Committee for Aeronautics"
+          },
+          "statement": {
+            "subject": "Q27221300",
+            "property": "P108",
+            "object": "Q618604",
+            "references": [
+              {
+                "reference URL": "https://en.wikipedia.org/wiki/Mary_Jackson_(engineer)",
+                "retrieved": "2026-11-07",
+                "title": "Mary Jackson (engineer)"
+              }
+            ],
+            "qualifiers": []
+          }
+        },
+        {
+          "draft-triples": {
+            "subject": "National Advisory Committee for Aeronautics",
+            "predicate": "was succeeded by",
+            "object": "National Aeronautics and Space Administration"
+          },
+          "statement": {
+            "subject": "Q618604",
+            "property": "P156",
+            "object": "Q23548",
+            "references": [
+              {
+                "reference URL": "https://en.wikipedia.org/wiki/Mary_Jackson_(engineer)",
+                "retrieved": "2026-11-07",
+                "title": "Mary Jackson (engineer)"
+              }
+            ],
+            "qualifiers": [
+              {
+                "property": "P585",
+                "object": { "time": "1958-00-00T00:00:00Z", "precision": "year" }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "sentence": "She worked at Langley Research Center in Hampton, Virginia, for most of her career.",
+      "triples": [
+        {
+          "draft-triples": {
+            "subject": "She",
+            "predicate": "worked at",
+            "object": "Langley Research Center"
+          },
+          "statement": {
+            "subject": "Q27221300",
+            "property": "P108",
+            "object": "Q618731",
+            "references": [
+              {
+                "reference URL": "https://en.wikipedia.org/wiki/Mary_Jackson_(engineer)",
+                "retrieved": "2026-11-07",
+                "title": "Mary Jackson (engineer)"
+              }
+            ],
+            "qualifiers": []
+          }
+        },
+        {
+          "draft-triples": {
+            "subject": "Langley Research Center",
+            "predicate": "located in",
+            "object": "Hampton, Virginia"
+          },
+          "statement": {
+            "subject": "Q618731",
+            "property": "P131",
+            "object": "Q342043",
+            "references": [
+              {
+                "reference URL": "https://en.wikipedia.org/wiki/Mary_Jackson_(engineer)",
+                "retrieved": "2026-11-07",
+                "title": "Mary Jackson (engineer)"
+              }
+            ],
+            "qualifiers": []
+          }
+        }
+      ]
+    },
+    {
+      "sentence": "She started as a computer at the segregated West Area Computing division in 1951.",
+      "triples": [
+        {
+          "draft-triples": {
+            "subject": "She",
+            "predicate": "started as",
+            "object": "a computer"
+          },
+          "statement": {
+            "subject": "Q27221300",
+            "property": "P106",
+            "object": "Q11202952",
+            "references": [
+              {
+                "reference URL": "https://en.wikipedia.org/wiki/Mary_Jackson_(engineer)",
+                "retrieved": "2026-11-07",
+                "title": "Mary Jackson (engineer)"
+              }
+            ],
+            "qualifiers": [
+              {
+                "property": "P580",
+                "object": { "time": "1951-00-00T00:00:00Z", "precision": "year" }
+              }
+            ]
+          }
+        },
+        {
+          "draft-triples": {
+            "subject": "She",
+            "predicate": "started as a computer at",
+            "object": "the segregated West Area Computing division"
+          },
+          "statement": {
+            "subject": "Q27221300",
+            "property": "P108",
+            "object": "Q21558300",
+            "references": [
+              {
+                "reference URL": "https://en.wikipedia.org/wiki/Mary_Jackson_(engineer)",
+                "retrieved": "2026-11-07",
+                "title": "Mary Jackson (engineer)"
+              }
+            ],
+            "qualifiers": []
+          }
+        },
+        {
+          "draft-triples": {
+            "subject": "West Area Computing division",
+            "predicate": "was",
+            "object": "segregated"
+          },
+          "statement": {
+            "subject": "Q21558300",
+            "property": "P31",
+            "object": "Q16334295",
+            "references": [
+              {
+                "reference URL": "https://en.wikipedia.org/wiki/Mary_Jackson_(engineer)",
+                "retrieved": "2026-11-07",
+                "title": "Mary Jackson (engineer)"
+              }
+            ],
+            "qualifiers": []
+          }
+        }
+      ]
+    },
+    {
+      "sentence": "In 1958, after taking engineering classes, she became NASA's first black female engineer.",
+      "triples": [
+        {
+          "draft-triples": {
+            "subject": "she",
+            "predicate": "took",
+            "object": "engineering classes"
+          },
+          "statement": {
+            "subject": "Q27221300",
+            "property": "",
+            "object": "",
+            "references": [
+              {
+                "reference URL": "https://en.wikipedia.org/wiki/Mary_Jackson_(engineer)",
+                "retrieved": "2026-11-07",
+                "title": "Mary Jackson (engineer)"
+              }
+            ],
+            "qualifiers": []
+          }
+        },
+        {
+          "draft-triples": {
+            "subject": "she",
+            "predicate": "became",
+            "object": "NASA's first black female engineer"
+          },
+          "statement": {
+            "subject": "Q27221300",
+            "property": "P106",
+            "object": "Q15895020",
+            "references": [
+              {
+                "reference URL": "https://en.wikipedia.org/wiki/Mary_Jackson_(engineer)",
+                "retrieved": "2026-11-07",
+                "title": "Mary Jackson (engineer)"
+              }
+            ],
+            "qualifiers": [
+              {
+                "property": "P585",
+                "object": { "time": "1958-00-00T00:00:00Z", "precision": "year" }
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

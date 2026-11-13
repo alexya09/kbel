@@ -1,0 +1,340 @@
+{
+  "text": "Margaret Elaine Hamilton (née Heafield; August 17, 1936 – September 30, 2026) was an American computer scientist. She directed the Software Engineering Division at the MIT Instrumentation Laboratory, where she led the development of the on-board flight software for NASA's Apollo Guidance Computer for the Apollo program. She later founded the software companies Higher Order Software in 1976 and Hamilton Technologies in 1986 — both in Cambridge, Massachusetts.",
+  "sentence-triples": [
+    {
+      "sentence": "Margaret Elaine Hamilton (née Heafield; August 17, 1936 – September 30, 2026) was an American computer scientist.",
+      "triples": [
+        {
+          "draft-triples": {
+            "subject": "Margaret Elaine Hamilton",
+            "predicate": "née",
+            "object": "Heafield"
+          },
+          "statement": {
+            "subject": "Q11628",
+            "property": "P1477",
+            "object": { "text": "Margaret Elaine Heafield", "language": "en" },
+            "references": [
+              {
+                "reference URL": "https://en.wikipedia.org/wiki/Margaret_Hamilton_(software_engineer)",
+                "retrieved": "2026-11-07",
+                "title": "Margaret Hamilton (software engineer)"
+              }
+            ],
+            "qualifiers": []
+          }
+        },
+        {
+          "draft-triples": {
+            "subject": "Margaret Elaine Hamilton",
+            "predicate": "born",
+            "object": "August 17, 1936"
+          },
+          "statement": {
+            "subject": "Q11628",
+            "property": "P569",
+            "object": { "time": "1936-08-17T00:00:00Z", "precision": "day" },
+            "references": [
+              {
+                "reference URL": "https://en.wikipedia.org/wiki/Margaret_Hamilton_(software_engineer)",
+                "retrieved": "2026-11-07",
+                "title": "Margaret Hamilton (software engineer)"
+              }
+            ],
+            "qualifiers": []
+          }
+        },
+        {
+          "draft-triples": {
+            "subject": "Margaret Elaine Hamilton",
+            "predicate": "died",
+            "object": "September 30, 2026"
+          },
+          "statement": {
+            "subject": "Q11628",
+            "property": "P570",
+            "object": { "time": "2026-09-30T00:00:00Z", "precision": "day" },
+            "references": [
+              {
+                "reference URL": "https://en.wikipedia.org/wiki/Margaret_Hamilton_(software_engineer)",
+                "retrieved": "2026-11-07",
+                "title": "Margaret Hamilton (software engineer)"
+              }
+            ],
+            "qualifiers": []
+          }
+        },
+        {
+          "draft-triples": {
+            "subject": "Margaret Elaine Hamilton",
+            "predicate": "was",
+            "object": "American"
+          },
+          "statement": {
+            "subject": "Q11628",
+            "property": "P27",
+            "object": "Q30",
+            "references": [
+              {
+                "reference URL": "https://en.wikipedia.org/wiki/Margaret_Hamilton_(software_engineer)",
+                "retrieved": "2026-11-07",
+                "title": "Margaret Hamilton (software engineer)"
+              }
+            ],
+            "qualifiers": []
+          }
+        },
+        {
+          "draft-triples": {
+            "subject": "Margaret Elaine Hamilton",
+            "predicate": "was",
+            "object": "computer scientist"
+          },
+          "statement": {
+            "subject": "Q11628",
+            "property": "P106",
+            "object": "Q82594",
+            "references": [
+              {
+                "reference URL": "https://en.wikipedia.org/wiki/Margaret_Hamilton_(software_engineer)",
+                "retrieved": "2026-11-07",
+                "title": "Margaret Hamilton (software engineer)"
+              }
+            ],
+            "qualifiers": []
+          }
+        }
+      ]
+    },
+    {
+      "sentence": "She directed the Software Engineering Division at the MIT Instrumentation Laboratory, where she led the development of the on-board flight software for NASA's Apollo Guidance Computer for the Apollo program.",
+      "triples": [
+        {
+          "draft-triples": {
+            "subject": "She",
+            "predicate": "directed",
+            "object": "the Software Engineering Division at the MIT Instrumentation Laboratory"
+          },
+          "statement": {
+            "subject": "Q11628",
+            "property": "P39",
+            "object": "the Software Engineering Division at the MIT Instrumentation Laboratory",
+            "references": [
+              {
+                "reference URL": "https://en.wikipedia.org/wiki/Margaret_Hamilton_(software_engineer)",
+                "retrieved": "2026-11-07",
+                "title": "Margaret Hamilton (software engineer)"
+              }
+            ],
+            "qualifiers": []
+          }
+        },
+        {
+          "draft-triples": {
+            "subject": "She",
+            "predicate": "employed by",
+            "object": "MIT Instrumentation Laboratory"
+          },
+          "statement": {
+            "subject": "Q11628",
+            "property": "P108",
+            "object": "Q49108",
+            "references": [
+              {
+                "reference URL": "https://en.wikipedia.org/wiki/Margaret_Hamilton_(software_engineer)",
+                "retrieved": "2026-11-07",
+                "title": "Margaret Hamilton (software engineer)"
+              }
+            ],
+            "qualifiers": []
+          }
+        },
+        {
+          "draft-triples": {
+            "subject": "She",
+            "predicate": "led the development of",
+            "object": "the on-board flight software for NASA's Apollo Guidance Computer"
+          },
+          "statement": {
+            "subject": "Q11628",
+            "property": "P800",
+            "object": "the on-board flight software for NASA's Apollo Guidance Computer",
+            "references": [
+              {
+                "reference URL": "https://en.wikipedia.org/wiki/Margaret_Hamilton_(software_engineer)",
+                "retrieved": "2026-11-07",
+                "title": "Margaret Hamilton (software engineer)"
+              }
+            ],
+            "qualifiers": []
+          }
+        },
+        {
+          "draft-triples": {
+            "subject": "the Apollo Guidance Computer",
+            "predicate": "was",
+            "object": "NASA's"
+          },
+          "statement": {
+            "subject": "Q138875",
+            "property": "P361",
+            "object": "Q23548",
+            "references": [
+              {
+                "reference URL": "https://en.wikipedia.org/wiki/Margaret_Hamilton_(software_engineer)",
+                "retrieved": "2026-11-07",
+                "title": "Margaret Hamilton (software engineer)"
+              }
+            ],
+            "qualifiers": []
+          }
+        },
+        {
+          "draft-triples": {
+            "subject": "the Apollo Guidance Computer",
+            "predicate": "was for",
+            "object": "the Apollo program"
+          },
+          "statement": {
+            "subject": "Q138875",
+            "property": "P361",
+            "object": "Q46611",
+            "references": [
+              {
+                "reference URL": "https://en.wikipedia.org/wiki/Margaret_Hamilton_(software_engineer)",
+                "retrieved": "2026-11-07",
+                "title": "Margaret Hamilton (software engineer)"
+              }
+            ],
+            "qualifiers": []
+          }
+        }
+      ]
+    },
+    {
+      "sentence": "She later founded the software companies Higher Order Software in 1976 and Hamilton Technologies in 1986 — both in Cambridge, Massachusetts.",
+      "triples": [
+        {
+          "draft-triples": {
+            "subject": "She",
+            "predicate": "founded",
+            "object": "Higher Order Software"
+          },
+          "statement": {
+            "subject": "Q11628",
+            "property": "P112",
+            "object": "Q55907356",
+            "references": [
+              {
+                "reference URL": "https://en.wikipedia.org/wiki/Margaret_Hamilton_(software_engineer)",
+                "retrieved": "2026-11-07",
+                "title": "Margaret Hamilton (software engineer)"
+              }
+            ],
+            "qualifiers": []
+          }
+        },
+        {
+          "draft-triples": {
+            "subject": "Higher Order Software",
+            "predicate": "founded in",
+            "object": "1976"
+          },
+          "statement": {
+            "subject": "Q55907356",
+            "property": "P571",
+            "object": { "time": "1976-00-00T00:00:00Z", "precision": "year" },
+            "references": [
+              {
+                "reference URL": "https://en.wikipedia.org/wiki/Margaret_Hamilton_(software_engineer)",
+                "retrieved": "2026-11-07",
+                "title": "Margaret Hamilton (software engineer)"
+              }
+            ],
+            "qualifiers": []
+          }
+        },
+        {
+          "draft-triples": {
+            "subject": "She",
+            "predicate": "founded",
+            "object": "Hamilton Technologies"
+          },
+          "statement": {
+            "subject": "Q11628",
+            "property": "P112",
+            "object": "Q53390536",
+            "references": [
+              {
+                "reference URL": "https://en.wikipedia.org/wiki/Margaret_Hamilton_(software_engineer)",
+                "retrieved": "2026-11-07",
+                "title": "Margaret Hamilton (software engineer)"
+              }
+            ],
+            "qualifiers": []
+          }
+        },
+        {
+          "draft-triples": {
+            "subject": "Hamilton Technologies",
+            "predicate": "founded in",
+            "object": "1986"
+          },
+          "statement": {
+            "subject": "Q53390536",
+            "property": "P571",
+            "object": { "time": "1986-00-00T00:00:00Z", "precision": "year" },
+            "references": [
+              {
+                "reference URL": "https://en.wikipedia.org/wiki/Margaret_Hamilton_(software_engineer)",
+                "retrieved": "2026-11-07",
+                "title": "Margaret Hamilton (software engineer)"
+              }
+            ],
+            "qualifiers": []
+          }
+        },
+        {
+          "draft-triples": {
+            "subject": "Higher Order Software",
+            "predicate": "located in",
+            "object": "Cambridge, Massachusetts"
+          },
+          "statement": {
+            "subject": "Q55907356",
+            "property": "P159",
+            "object": "Q49111",
+            "references": [
+              {
+                "reference URL": "https://en.wikipedia.org/wiki/Margaret_Hamilton_(software_engineer)",
+                "retrieved": "2026-11-07",
+                "title": "Margaret Hamilton (software engineer)"
+              }
+            ],
+            "qualifiers": []
+          }
+        },
+        {
+          "draft-triples": {
+            "subject": "Hamilton Technologies",
+            "predicate": "located in",
+            "object": "Cambridge, Massachusetts"
+          },
+          "statement": {
+            "subject": "Q53390536",
+            "property": "P159",
+            "object": "Q49111",
+            "references": [
+              {
+                "reference URL": "https://en.wikipedia.org/wiki/Margaret_Hamilton_(software_engineer)",
+                "retrieved": "2026-11-07",
+                "title": "Margaret Hamilton (software engineer)"
+              }
+            ],
+            "qualifiers": []
+          }
+        }
+      ]
+    }
+  ]
+}

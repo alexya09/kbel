@@ -1,0 +1,454 @@
+{
+  "text": "Steven Paul Jobs (February 24, 1955 – October 5, 2011) was an American businessman, inventor, and investor. A pioneer of the personal computer revolution of the 1970s and 1980s, Jobs co-founded Apple with his early business partner Steve Wozniak as Apple Computer Company in 1976. After the company's board of directors fired him in 1985, he founded NeXT the same year and purchased Pixar in 1986, becoming its chairman and majority shareholder until 2007. Jobs returned to Apple in 1997 as CEO, where he was closely involved with the creation and promotion of many of the company's most influential products until his resignation in 2011.",
+  "sentence-triples": [
+    {
+      "sentence": "Steven Paul Jobs (February 24, 1955 – October 5, 2011) was an American businessman, inventor, and investor.",
+      "triples": [
+        {
+          "draft-triples": {
+            "subject": "Steven Paul Jobs",
+            "predicate": "born",
+            "object": "February 24, 1955"
+          },
+          "statement": {
+            "subject": "Q19837",
+            "property": "P569",
+            "object": { "time": "1955-02-24T00:00:00Z", "precision": "day" },
+            "references": [
+              {
+                "reference URL": "https://en.wikipedia.org/wiki/Steve_Jobs",
+                "retrieved": "2026-11-07",
+                "title": "Steve Jobs"
+              }
+            ],
+            "qualifiers": []
+          }
+        },
+        {
+          "draft-triples": {
+            "subject": "Steven Paul Jobs",
+            "predicate": "died",
+            "object": "October 5, 2011"
+          },
+          "statement": {
+            "subject": "Q19837",
+            "property": "P570",
+            "object": { "time": "2011-10-05T00:00:00Z", "precision": "day" },
+            "references": [
+              {
+                "reference URL": "https://en.wikipedia.org/wiki/Steve_Jobs",
+                "retrieved": "2026-11-07",
+                "title": "Steve Jobs"
+              }
+            ],
+            "qualifiers": []
+          }
+        },
+        {
+          "draft-triples": {
+            "subject": "Steven Paul Jobs",
+            "predicate": "was",
+            "object": "American"
+          },
+          "statement": {
+            "subject": "Q19837",
+            "property": "P27",
+            "object": "Q30",
+            "references": [
+              {
+                "reference URL": "https://en.wikipedia.org/wiki/Steve_Jobs",
+                "retrieved": "2026-11-07",
+                "title": "Steve Jobs"
+              }
+            ],
+            "qualifiers": []
+          }
+        },
+        {
+          "draft-triples": {
+            "subject": "Steven Paul Jobs",
+            "predicate": "was",
+            "object": "businessman"
+          },
+          "statement": {
+            "subject": "Q19837",
+            "property": "P106",
+            "object": "Q43845",
+            "references": [
+              {
+                "reference URL": "https://en.wikipedia.org/wiki/Steve_Jobs",
+                "retrieved": "2026-11-07",
+                "title": "Steve Jobs"
+              }
+            ],
+            "qualifiers": []
+          }
+        },
+        {
+          "draft-triples": {
+            "subject": "Steven Paul Jobs",
+            "predicate": "was",
+            "object": "inventor"
+          },
+          "statement": {
+            "subject": "Q19837",
+            "property": "P106",
+            "object": "Q205375",
+            "references": [
+              {
+                "reference URL": "https://en.wikipedia.org/wiki/Steve_Jobs",
+                "retrieved": "2026-11-07",
+                "title": "Steve Jobs"
+              }
+            ],
+            "qualifiers": []
+          }
+        },
+        {
+          "draft-triples": {
+            "subject": "Steven Paul Jobs",
+            "predicate": "was",
+            "object": "investor"
+          },
+          "statement": {
+            "subject": "Q19837",
+            "property": "P106",
+            "object": "Q557880",
+            "references": [
+              {
+                "reference URL": "https://en.wikipedia.org/wiki/Steve_Jobs",
+                "retrieved": "2026-11-07",
+                "title": "Steve Jobs"
+              }
+            ],
+            "qualifiers": []
+          }
+        }
+      ]
+    },
+    {
+      "sentence": "A pioneer of the personal computer revolution of the 1970s and 1980s, Jobs co-founded Apple with his early business partner Steve Wozniak as Apple Computer Company in 1976.",
+      "triples": [
+        {
+          "draft-triples": {
+            "subject": "Jobs",
+            "predicate": "was a pioneer of",
+            "object": "the personal computer revolution of the 1970s and 1980s"
+          },
+          "statement": {
+            "subject": "Q19837",
+            "property": "P800",
+            "object": "",
+            "references": [
+              {
+                "reference URL": "https://en.wikipedia.org/wiki/Steve_Jobs",
+                "retrieved": "2026-11-07",
+                "title": "Steve Jobs"
+              }
+            ],
+            "qualifiers": []
+          }
+        },
+        {
+          "draft-triples": {
+            "subject": "Jobs",
+            "predicate": "co-founded",
+            "object": "Apple"
+          },
+          "statement": {
+            "subject": "Q19837",
+            "property": "P112",
+            "object": "Q312",
+            "references": [
+              {
+                "reference URL": "https://en.wikipedia.org/wiki/Steve_Jobs",
+                "retrieved": "2026-11-07",
+                "title": "Steve Jobs"
+              }
+            ],
+            "qualifiers": [
+              {
+                "property": "P585",
+                "object": { "time": "1976-00-00T00:00:00Z", "precision": "year" }
+              }
+            ]
+          }
+        },
+        {
+          "draft-triples": {
+            "subject": "Steve Wozniak",
+            "predicate": "co-founded Apple with",
+            "object": "Jobs"
+          },
+          "statement": {
+            "subject": "Q483382",
+            "property": "P112",
+            "object": "Q312",
+            "references": [
+              {
+                "reference URL": "https://en.wikipedia.org/wiki/Steve_Jobs",
+                "retrieved": "2026-11-07",
+                "title": "Steve Jobs"
+              }
+            ],
+            "qualifiers": [
+              {
+                "property": "P585",
+                "object": { "time": "1976-00-00T00:00:00Z", "precision": "year" }
+              }
+            ]
+          }
+        },
+        {
+          "draft-triples": {
+            "subject": "Steve Wozniak",
+            "predicate": "is early business partner of",
+            "object": "Jobs"
+          },
+          "statement": {
+            "subject": "Q483382",
+            "property": "P1327",
+            "object": "Q19837",
+            "references": [
+              {
+                "reference URL": "https://en.wikipedia.org/wiki/Steve_Jobs",
+                "retrieved": "2026-11-07",
+                "title": "Steve Jobs"
+              }
+            ],
+            "qualifiers": []
+          }
+        },
+        {
+          "draft-triples": {
+            "subject": "Apple",
+            "predicate": "was founded as",
+            "object": "Apple Computer Company"
+          },
+          "statement": {
+            "subject": "Q312",
+            "property": "",
+            "object": "",
+            "references": [
+              {
+                "reference URL": "https://en.wikipedia.org/wiki/Steve_Jobs",
+                "retrieved": "2026-11-07",
+                "title": "Steve Jobs"
+              }
+            ],
+            "qualifiers": [
+              {
+                "property": "P585",
+                "object": { "time": "1976-00-00T00:00:00Z", "precision": "year" }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "sentence": "After the company's board of directors fired him in 1985, he founded NeXT the same year and purchased Pixar in 1986, becoming its chairman and majority shareholder until 2007.",
+      "triples": [
+        {
+          "draft-triples": {
+            "subject": "the company's board of directors",
+            "predicate": "fired",
+            "object": "Jobs"
+          },
+          "statement": {
+            "subject": "",
+            "property": "",
+            "object": "",
+            "references": [
+              {
+                "reference URL": "https://en.wikipedia.org/wiki/Steve_Jobs",
+                "retrieved": "2026-11-07",
+                "title": "Steve Jobs"
+              }
+            ],
+            "qualifiers": [
+              {
+                "property": "P585",
+                "object": { "time": "1985-00-00T00:00:00Z", "precision": "year" }
+              }
+            ]
+          }
+        },
+        {
+          "draft-triples": {
+            "subject": "he",
+            "predicate": "founded",
+            "object": "NeXT"
+          },
+          "statement": {
+            "subject": "Q19837",
+            "property": "P112",
+            "object": "Q308993",
+            "references": [
+              {
+                "reference URL": "https://en.wikipedia.org/wiki/Steve_Jobs",
+                "retrieved": "2026-11-07",
+                "title": "Steve Jobs"
+              }
+            ],
+            "qualifiers": [
+              {
+                "property": "P585",
+                "object": { "time": "1985-00-00T00:00:00Z", "precision": "year" }
+              }
+            ]
+          }
+        },
+        {
+          "draft-triples": {
+            "subject": "he",
+            "predicate": "purchased",
+            "object": "Pixar"
+          },
+          "statement": {
+            "subject": "Q19837",
+            "property": "P127",
+            "object": "Q127552",
+            "references": [
+              {
+                "reference URL": "https://en.wikipedia.org/wiki/Steve_Jobs",
+                "retrieved": "2026-11-07",
+                "title": "Steve Jobs"
+              }
+            ],
+            "qualifiers": [
+              {
+                "property": "P585",
+                "object": { "time": "1986-00-00T00:00:00Z", "precision": "year" }
+              }
+            ]
+          }
+        },
+        {
+          "draft-triples": {
+            "subject": "he",
+            "predicate": "became chairman of",
+            "object": "Pixar"
+          },
+          "statement": {
+            "subject": "Q19837",
+            "property": "",
+            "object": "Q127552",
+            "references": [
+              {
+                "reference URL": "https://en.wikipedia.org/wiki/Steve_Jobs",
+                "retrieved": "2026-11-07",
+                "title": "Steve Jobs"
+              }
+            ],
+            "qualifiers": [
+              {
+                "property": "P582",
+                "object": { "time": "2007-00-00T00:00:00Z", "precision": "year" }
+              }
+            ]
+          }
+        },
+        {
+          "draft-triples": {
+            "subject": "he",
+            "predicate": "became majority shareholder of",
+            "object": "Pixar"
+          },
+          "statement": {
+            "subject": "Q19837",
+            "property": "",
+            "object": "Q127552",
+            "references": [
+              {
+                "reference URL": "https://en.wikipedia.org/wiki/Steve_Jobs",
+                "retrieved": "2026-11-07",
+                "title": "Steve Jobs"
+              }
+            ],
+            "qualifiers": [
+              {
+                "property": "P582",
+                "object": { "time": "2007-00-00T00:00:00Z", "precision": "year" }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "sentence": "Jobs returned to Apple in 1997 as CEO, where he was closely involved with the creation and promotion of many of the company's most influential products until his resignation in 2011.",
+      "triples": [
+        {
+          "draft-triples": {
+            "subject": "Jobs",
+            "predicate": "returned to Apple as CEO in",
+            "object": "1997"
+          },
+          "statement": {
+            "subject": "Q312",
+            "property": "P169",
+            "object": "Q19837",
+            "references": [
+              {
+                "reference URL": "https://en.wikipedia.org/wiki/Steve_Jobs",
+                "retrieved": "2026-11-07",
+                "title": "Steve Jobs"
+              }
+            ],
+            "qualifiers": [
+              {
+                "property": "P580",
+                "object": { "time": "1997-00-00T00:00:00Z", "precision": "year" }
+              },
+              {
+                "property": "P582",
+                "object": { "time": "2011-00-00T00:00:00Z", "precision": "year" }
+              }
+            ]
+          }
+        },
+        {
+          "draft-triples": {
+            "subject": "Jobs",
+            "predicate": "was closely involved with the creation and promotion of",
+            "object": "many of Apple's most influential products"
+          },
+          "statement": {
+            "subject": "",
+            "property": "",
+            "object": "",
+            "references": [
+              {
+                "reference URL": "https://en.wikipedia.org/wiki/Steve_Jobs",
+                "retrieved": "2026-11-07",
+                "title": "Steve Jobs"
+              }
+            ],
+            "qualifiers": []
+          }
+        },
+        {
+          "draft-triples": {
+            "subject": "Jobs",
+            "predicate": "resigned from Apple in",
+            "object": "2011"
+          },
+          "statement": {
+            "subject": "",
+            "property": "",
+            "object": "",
+            "references": [
+              {
+                "reference URL": "https://en.wikipedia.org/wiki/Steve_Jobs",
+                "retrieved": "2026-11-07",
+                "title": "Steve Jobs"
+              }
+            ],
+            "qualifiers": []
+          }
+        }
+      ]
+    }
+  ]
+}

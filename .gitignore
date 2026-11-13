@@ -11,10 +11,8 @@ __pycache__/
 **/__pycache__/
 *.pyc
 
-/test.py
-/dataset/
+**/runs
 /avaliacao/
-/experimento/
 /agoravia/
 
 **/kbel/ingestors/

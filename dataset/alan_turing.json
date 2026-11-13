@@ -1,0 +1,240 @@
+{
+  "text": "Alan Mathison Turing (/ˈtjʊərɪŋ/; 23 June 1912 – 7 June 1954) was an English mathematician and logician[6] widely regarded as the father of theoretical computer science.[7] He formalised the concepts of algorithm and computation with the Turing machine, a model of a general-purpose computer,[8][9][10] and his contributions to cryptanalysis helped the Allies of World War II decipher messages encrypted by the German Enigma machine. He also contributed the Turing test to philosophy of artificial intelligence and the Turing pattern concept to mathematical and theoretical biology.",
+  "sentence-triples": [
+    {
+      "sentence": "Alan Mathison Turing (23 June 1912 – 7 June 1954) was an English mathematician and logician widely regarded as the father of theoretical computer science.",
+      "triples": [
+        {
+          "draft-triples": {
+            "subject": "Alan Mathison Turing",
+            "predicate": "born",
+            "object": "23 June 1912"
+          },
+          "statement": {
+            "subject": "Q7251",
+            "property": "P569",
+            "object": { "time": "1912-06-23T00:00:00Z", "precision": "day" },
+            "references": [
+              {
+                "reference URL": "https://en.wikipedia.org/wiki/Alan_Turing",
+                "retrieved": "2026-11-07",
+                "title": "Alan Turing"
+              }
+            ],
+            "qualifiers": []
+          }
+        },
+        {
+          "draft-triples": {
+            "subject": "Alan Mathison Turing",
+            "predicate": "died",
+            "object": "7 June 1954"
+          },
+          "statement": {
+            "subject": "Q7251",
+            "property": "P570",
+            "object": { "time": "1954-06-07T00:00:00Z", "precision": "day" },
+            "references": [
+              {
+                "reference URL": "https://en.wikipedia.org/wiki/Alan_Turing",
+                "retrieved": "2026-11-07",
+                "title": "Alan Turing"
+              }
+            ],
+            "qualifiers": []
+          }
+        },
+        {
+          "draft-triples": {
+            "subject": "Alan Mathison Turing",
+            "predicate": "was",
+            "object": "English"
+          },
+          "statement": {
+            "subject": "Q7251",
+            "property": "P27",
+            "object": "Q145",
+            "references": [
+              {
+                "reference URL": "https://en.wikipedia.org/wiki/Alan_Turing",
+                "retrieved": "2026-11-07",
+                "title": "Alan Turing"
+              }
+            ],
+            "qualifiers": []
+          }
+        },
+        {
+          "draft-triples": {
+            "subject": "Alan Mathison Turing",
+            "predicate": "was",
+            "object": "mathematician"
+          },
+          "statement": {
+            "subject": "Q7251",
+            "property": "P106",
+            "object": "Q170790",
+            "references": [
+              {
+                "reference URL": "https://en.wikipedia.org/wiki/Alan_Turing",
+                "retrieved": "2026-11-07",
+                "title": "Alan Turing"
+              }
+            ],
+            "qualifiers": []
+          }
+        },
+        {
+          "draft-triples": {
+            "subject": "Alan Mathison Turing",
+            "predicate": "was",
+            "object": "logician"
+          },
+          "statement": {
+            "subject": "Q7251",
+            "property": "P106",
+            "object": "Q14565331",
+            "references": [
+              {
+                "reference URL": "https://en.wikipedia.org/wiki/Alan_Turing",
+                "retrieved": "2026-11-07",
+                "title": "Alan Turing"
+              }
+            ],
+            "qualifiers": []
+          }
+        },
+        {
+          "draft-triples": {
+            "subject": "Alan Mathison Turing",
+            "predicate": "widely regarded as",
+            "object": "the father of theoretical computer science"
+          },
+          "statement": {
+            "subject": "",
+            "property": "",
+            "object": "",
+            "references": [
+              {
+                "reference URL": "https://en.wikipedia.org/wiki/Alan_Turing",
+                "retrieved": "2026-11-07",
+                "title": "Alan Turing"
+              }
+            ],
+            "qualifiers": []
+          }
+        }
+      ]
+    },
+    {
+      "sentence": "He formalised the concepts of algorithm and computation with the Turing machine, a model of a general-purpose computer, and his contributions to cryptanalysis helped the Allies of World War II decipher messages encrypted by the German Enigma machine.",
+      "triples": [
+        {
+          "draft-triples": {
+            "subject": "He",
+            "predicate": "formalised",
+            "object": "the concepts of algorithm and computation with the Turing machine"
+          },
+          "statement": {
+            "subject": "Q7251",
+            "property": "P800",
+            "object": "Q163310",
+            "references": [
+              {
+                "reference URL": "https://en.wikipedia.org/wiki/Alan_Turing",
+                "retrieved": "2026-11-07",
+                "title": "Alan Turing"
+              }
+            ],
+            "qualifiers": []
+          }
+        },
+        {
+          "draft-triples": {
+            "subject": "the Turing machine",
+            "predicate": "is",
+            "object": "a model of a general-purpose computer"
+          },
+          "statement": {
+            "subject": "Q163310",
+            "property": "P31",
+            "object": "Q2651576",
+            "references": [
+              {
+                "reference URL": "https://en.wikipedia.org/wiki/Alan_Turing",
+                "retrieved": "2026-11-07",
+                "title": "Alan Turing"
+              }
+            ],
+            "qualifiers": []
+          }
+        },
+        {
+          "draft-triples": {
+            "subject": "his contributions to cryptanalysis",
+            "predicate": "helped",
+            "object": "the Allies of World War II decipher messages encrypted by the German Enigma machine"
+          },
+          "statement": {
+            "subject": "",
+            "property": "",
+            "object": "",
+            "references": [
+              {
+                "reference URL": "https://en.wikipedia.org/wiki/Alan_Turing",
+                "retrieved": "2026-11-07",
+                "title": "Alan Turing"
+              }
+            ],
+            "qualifiers": []
+          }
+        }
+      ]
+    },
+    {
+      "sentence": "He also contributed the Turing test to philosophy of artificial intelligence and the Turing pattern concept to mathematical and theoretical biology.",
+      "triples": [
+        {
+          "draft-triples": {
+            "subject": "He",
+            "predicate": "contributed",
+            "object": "the Turing test to philosophy of artificial intelligence"
+          },
+          "statement": {
+            "subject": "Q7251",
+            "property": "P800",
+            "object": "Q189223",
+            "references": [
+              {
+                "reference URL": "https://en.wikipedia.org/wiki/Alan_Turing",
+                "retrieved": "2026-11-07",
+                "title": "Alan Turing"
+              }
+            ],
+            "qualifiers": []
+          }
+        },
+        {
+          "draft-triples": {
+            "subject": "He",
+            "predicate": "contributed",
+            "object": "the Turing pattern concept to mathematical and theoretical biology"
+          },
+          "statement": {
+            "subject": "Q7251",
+            "property": "P6872",
+            "object": "Q56273850",
+            "references": [
+              {
+                "reference URL": "https://en.wikipedia.org/wiki/Alan_Turing",
+                "retrieved": "2026-11-07",
+                "title": "Alan Turing"
+              }
+            ],
+            "qualifiers": []
+          }
+        }
+      ]
+    }
+  ]
+}

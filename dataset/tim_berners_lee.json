@@ -1,0 +1,215 @@
+{
+  "text": "Sir Timothy John Berners-Lee (born 8 June 1955), also known as TimBL, is an English computer scientist best known as the inventor of the World Wide Web, HTML, the URL system, and HTTP. He is a professorial research fellow at the University of Oxford and a professor emeritus at the Massachusetts Institute of Technology (MIT).",
+  "sentence-triples": [
+    {
+      "sentence": "Sir Timothy John Berners-Lee (born 8 June 1955), also known as TimBL, is an English computer scientist best known as the inventor of the World Wide Web, HTML, the URL system, and HTTP.",
+      "triples": [
+        {
+          "draft-triples": {
+            "subject": "Sir Timothy John Berners-Lee",
+            "predicate": "born",
+            "object": "8 June 1955"
+          },
+          "statement": {
+            "subject": "Q80",
+            "property": "P569",
+            "object": { "time": "1955-06-08T00:00:00Z", "precision": "day" },
+            "references": [
+              {
+                "reference URL": "https://en.wikipedia.org/wiki/Tim_Berners-Lee",
+                "retrieved": "2026-11-07",
+                "title": "Tim Berners-Lee"
+              }
+            ],
+            "qualifiers": []
+          }
+        },
+        {
+          "draft-triples": {
+            "subject": "Sir Timothy John Berners-Lee",
+            "predicate": "also known as",
+            "object": "TimBL"
+          },
+          "statement": {
+            "subject": "Q80",
+            "property": "P1449",
+            "object": "TimBL",
+            "references": [
+              {
+                "reference URL": "https://en.wikipedia.org/wiki/Tim_Berners-Lee",
+                "retrieved": "2026-11-07",
+                "title": "Tim Berners-Lee"
+              }
+            ],
+            "qualifiers": []
+          }
+        },
+        {
+          "draft-triples": {
+            "subject": "Sir Timothy John Berners-Lee",
+            "predicate": "is",
+            "object": "English"
+          },
+          "statement": {
+            "subject": "Q80",
+            "property": "P27",
+            "object": "Q145",
+            "references": [
+              {
+                "reference URL": "https://en.wikipedia.org/wiki/Tim_Berners-Lee",
+                "retrieved": "2026-11-07",
+                "title": "Tim Berners-Lee"
+              }
+            ],
+            "qualifiers": []
+          }
+        },
+        {
+          "draft-triples": {
+            "subject": "Sir Timothy John Berners-Lee",
+            "predicate": "is",
+            "object": "computer scientist"
+          },
+          "statement": {
+            "subject": "Q80",
+            "property": "P106",
+            "object": "Q82594",
+            "references": [
+              {
+                "reference URL": "https://en.wikipedia.org/wiki/Tim_Berners-Lee",
+                "retrieved": "2026-11-07",
+                "title": "Tim Berners-Lee"
+              }
+            ],
+            "qualifiers": []
+          }
+        },
+        {
+          "draft-triples": {
+            "subject": "Sir Timothy John Berners-Lee",
+            "predicate": "best known as the inventor of",
+            "object": "World Wide Web"
+          },
+          "statement": {
+            "subject": "Q80",
+            "property": "P800",
+            "object": "Q466",
+            "references": [
+              {
+                "reference URL": "https://en.wikipedia.org/wiki/Tim_Berners-Lee",
+                "retrieved": "2026-11-07",
+                "title": "Tim Berners-Lee"
+              }
+            ],
+            "qualifiers": []
+          }
+        },
+        {
+          "draft-triples": {
+            "subject": "Sir Timothy John Berners-Lee",
+            "predicate": "best known as the inventor of",
+            "object": "HTML"
+          },
+          "statement": {
+            "subject": "Q80",
+            "property": "P800",
+            "object": "Q8811",
+            "references": [
+              {
+                "reference URL": "https://en.wikipedia.org/wiki/Tim_Berners-Lee",
+                "retrieved": "2026-11-07",
+                "title": "Tim Berners-Lee"
+              }
+            ],
+            "qualifiers": []
+          }
+        },
+        {
+          "draft-triples": {
+            "subject": "Sir Timothy John Berners-Lee",
+            "predicate": "best known as the inventor of",
+            "object": "the URL system"
+          },
+          "statement": {
+            "subject": "Q80",
+            "property": "P800",
+            "object": "Q42253",
+            "references": [
+              {
+                "reference URL": "https://en.wikipedia.org/wiki/Tim_Berners-Lee",
+                "retrieved": "2026-11-07",
+                "title": "Tim Berners-Lee"
+              }
+            ],
+            "qualifiers": []
+          }
+        },
+        {
+          "draft-triples": {
+            "subject": "Sir Timothy John Berners-Lee",
+            "predicate": "best known as the inventor of",
+            "object": "HTTP"
+          },
+          "statement": {
+            "subject": "Q80",
+            "property": "P800",
+            "object": "Q8777",
+            "references": [
+              {
+                "reference URL": "https://en.wikipedia.org/wiki/Tim_Berners-Lee",
+                "retrieved": "2026-11-07",
+                "title": "Tim Berners-Lee"
+              }
+            ],
+            "qualifiers": []
+          }
+        }
+      ]
+    },
+    {
+      "sentence": "He is a professorial research fellow at the University of Oxford and a professor emeritus at the Massachusetts Institute of Technology (MIT).",
+      "triples": [
+        {
+          "draft-triples": {
+            "subject": "He",
+            "predicate": "is a professorial research fellow at",
+            "object": "University of Oxford"
+          },
+          "statement": {
+            "subject": "Q80",
+            "property": "P108",
+            "object": "Q34433",
+            "references": [
+              {
+                "reference URL": "https://en.wikipedia.org/wiki/Tim_Berners-Lee",
+                "retrieved": "2026-11-07",
+                "title": "Tim Berners-Lee"
+              }
+            ],
+            "qualifiers": []
+          }
+        },
+        {
+          "draft-triples": {
+            "subject": "He",
+            "predicate": "is a professor emeritus at",
+            "object": "Massachusetts Institute of Technology"
+          },
+          "statement": {
+            "subject": "Q80",
+            "property": "P108",
+            "object": "Q49108",
+            "references": [
+              {
+                "reference URL": "https://en.wikipedia.org/wiki/Tim_Berners-Lee",
+                "retrieved": "2026-11-07",
+                "title": "Tim Berners-Lee"
+              }
+            ],
+            "qualifiers": []
+          }
+        }
+      ]
+    }
+  ]
+}

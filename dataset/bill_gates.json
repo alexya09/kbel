@@ -1,0 +1,416 @@
+{
+  "text": "William Henry Gates III (born October 28, 1955) is an American businessman and philanthropist. A pioneer of the microcomputer revolution of the 1970s and 1980s, he co-founded the software company Microsoft in 1975 with his childhood friend Paul Allen. Following Microsoft's initial public offering in 1986 and the subsequent increase in its stock price, Gates became the world's then-youngest billionaire in 1987, at age 31. Forbes magazine ranked him as the world's wealthiest person in their The World's Billionaires list for 18 out of 24 years between 1995 and 2017, including 13 years consecutively from 1995 to 2007. Gates became the first centibillionaire in 1999, when his net worth briefly surpassed US$100 billion. According to Forbes, as of July 2026, his net worth stood at US$106.5 billion, making him the 19th-wealthiest individual in the world.",
+  "sentence-triples": [
+    {
+      "sentence": "William Henry Gates III (born October 28, 1955) is an American businessman and philanthropist.",
+      "triples": [
+        {
+          "draft-triples": {
+            "subject": "William Henry Gates III",
+            "predicate": "born",
+            "object": "October 28, 1955"
+          },
+          "statement": {
+            "subject": "Q5284",
+            "property": "P569",
+            "object": { "time": "1955-10-28T00:00:00Z", "precision": "day" },
+            "references": [
+              {
+                "reference URL": "https://en.wikipedia.org/wiki/Bill_Gates",
+                "retrieved": "2026-11-07",
+                "title": "Bill Gates"
+              }
+            ],
+            "qualifiers": []
+          }
+        },
+        {
+          "draft-triples": {
+            "subject": "William Henry Gates III",
+            "predicate": "is",
+            "object": "American"
+          },
+          "statement": {
+            "subject": "Q5284",
+            "property": "P27",
+            "object": "Q30",
+            "references": [
+              {
+                "reference URL": "https://en.wikipedia.org/wiki/Bill_Gates",
+                "retrieved": "2026-11-07",
+                "title": "Bill Gates"
+              }
+            ],
+            "qualifiers": []
+          }
+        },
+        {
+          "draft-triples": {
+            "subject": "William Henry Gates III",
+            "predicate": "is",
+            "object": "businessman"
+          },
+          "statement": {
+            "subject": "Q5284",
+            "property": "P106",
+            "object": "Q43845",
+            "references": [
+              {
+                "reference URL": "https://en.wikipedia.org/wiki/Bill_Gates",
+                "retrieved": "2026-11-07",
+                "title": "Bill Gates"
+              }
+            ],
+            "qualifiers": []
+          }
+        },
+        {
+          "draft-triples": {
+            "subject": "William Henry Gates III",
+            "predicate": "is",
+            "object": "philanthropist"
+          },
+          "statement": {
+            "subject": "Q5284",
+            "property": "P106",
+            "object": "Q12362622",
+            "references": [
+              {
+                "reference URL": "https://en.wikipedia.org/wiki/Bill_Gates",
+                "retrieved": "2026-11-07",
+                "title": "Bill Gates"
+              }
+            ],
+            "qualifiers": []
+          }
+        }
+      ]
+    },
+    {
+      "sentence": "A pioneer of the microcomputer revolution of the 1970s and 1980s, he co-founded the software company Microsoft in 1975 with his childhood friend Paul Allen.",
+      "triples": [
+        {
+          "draft-triples": {
+            "subject": "he",
+            "predicate": "was a pioneer of",
+            "object": "the microcomputer revolution of the 1970s and 1980s"
+          },
+          "statement": {
+            "subject": "Q5284",
+            "property": "P61",
+            "object": "Q473708",
+            "references": [
+              {
+                "reference URL": "https://en.wikipedia.org/wiki/Bill_Gates",
+                "retrieved": "2026-11-07",
+                "title": "Bill Gates"
+              }
+            ],
+            "qualifiers": []
+          }
+        },
+        {
+          "draft-triples": {
+            "subject": "he",
+            "predicate": "co-founded",
+            "object": "Microsoft"
+          },
+          "statement": {
+            "subject": "Q5284",
+            "property": "P112",
+            "object": "Q2283",
+            "references": [
+              {
+                "reference URL": "https://en.wikipedia.org/wiki/Bill_Gates",
+                "retrieved": "2026-11-07",
+                "title": "Bill Gates"
+              }
+            ],
+            "qualifiers": []
+          }
+        },
+        {
+          "draft-triples": {
+            "subject": "Microsoft",
+            "predicate": "is",
+            "object": "a software company"
+          },
+          "statement": {
+            "subject": "Q2283",
+            "property": "P31",
+            "object": "Q1058914",
+            "references": [
+              {
+                "reference URL": "https://en.wikipedia.org/wiki/Bill_Gates",
+                "retrieved": "2026-11-07",
+                "title": "Bill Gates"
+              }
+            ],
+            "qualifiers": []
+          }
+        },
+        {
+          "draft-triples": {
+            "subject": "Paul Allen",
+            "predicate": "co-founded Microsoft with",
+            "object": "William Henry Gates III"
+          },
+          "statement": {
+            "subject": "Q162005",
+            "property": "P112",
+            "object": "Q5284",
+            "references": [
+              {
+                "reference URL": "https://en.wikipedia.org/wiki/Bill_Gates",
+                "retrieved": "2026-11-07",
+                "title": "Bill Gates"
+              }
+            ],
+            "qualifiers": []
+          }
+        },
+        {
+          "draft-triples": {
+            "subject": "Paul Allen",
+            "predicate": "is childhood friend of",
+            "object": "William Henry Gates III"
+          },
+          "statement": {
+            "subject": "Q162005",
+            "property": "P3342",
+            "object": "Q5284",
+            "references": [
+              {
+                "reference URL": "https://en.wikipedia.org/wiki/Bill_Gates",
+                "retrieved": "2026-11-07",
+                "title": "Bill Gates"
+              }
+            ],
+            "qualifiers": []
+          }
+        }
+      ]
+    },
+    {
+      "sentence": "Following Microsoft's initial public offering in 1986 and the subsequent increase in its stock price, Gates became the world's then-youngest billionaire in 1987, at age 31.",
+      "triples": [
+        {
+          "draft-triples": {
+            "subject": "Microsoft",
+            "predicate": "had initial public offering in",
+            "object": "1986"
+          },
+          "statement": {
+            "subject": "Q2283",
+            "property": "",
+            "object": "1986",
+            "references": [
+              {
+                "reference URL": "https://en.wikipedia.org/wiki/Bill_Gates",
+                "retrieved": "2026-11-07",
+                "title": "Bill Gates"
+              }
+            ],
+            "qualifiers": []
+          }
+        },
+        {
+          "draft-triples": {
+            "subject": "Gates",
+            "predicate": "became",
+            "object": "the world's then-youngest billionaire"
+          },
+          "statement": {
+            "subject": "Q5284",
+            "property": "P31",
+            "object": "Q1062083",
+            "references": [
+              {
+                "reference URL": "https://en.wikipedia.org/wiki/Bill_Gates",
+                "retrieved": "2026-11-07",
+                "title": "Bill Gates"
+              }
+            ],
+            "qualifiers": []
+          }
+        },
+        {
+          "draft-triples": {
+            "subject": "Gates",
+            "predicate": "became the youngest billionaire at age",
+            "object": "31"
+          },
+          "statement": {
+            "subject": "Q5284",
+            "property": "P31",
+            "object": "Q1062083",
+            "references": [
+              {
+                "reference URL": "https://en.wikipedia.org/wiki/Bill_Gates",
+                "retrieved": "2026-11-07",
+                "title": "Bill Gates"
+              }
+            ],
+            "qualifiers": []
+          }
+        }
+      ]
+    },
+    {
+      "sentence": "Forbes magazine ranked him as the world's wealthiest person in their The World's Billionaires list for 18 out of 24 years between 1995 and 2017, including 13 years consecutively from 1995 to 2007.",
+      "triples": [
+        {
+          "draft-triples": {
+            "subject": "Forbes",
+            "predicate": "ranked Gates as the world's wealthiest person in",
+            "object": "The World's Billionaires"
+          },
+          "statement": {
+            "subject": "Q25161472",
+            "property": "P1352",
+            "object": "Q493078",
+            "references": [
+              {
+                "reference URL": "https://en.wikipedia.org/wiki/Bill_Gates",
+                "retrieved": "2026-11-07",
+                "title": "Bill Gates"
+              }
+            ],
+            "qualifiers": []
+          }
+        },
+        {
+          "draft-triples": {
+            "subject": "Gates",
+            "predicate": "was ranked wealthiest person for",
+            "object": "18 out of 24 years between 1995 and 2017"
+          },
+          "statement": {
+            "subject": "Q5284",
+            "property": "",
+            "object": "",
+            "references": [
+              {
+                "reference URL": "https://en.wikipedia.org/wiki/Bill_Gates",
+                "retrieved": "2026-11-07",
+                "title": "Bill Gates"
+              }
+            ],
+            "qualifiers": []
+          }
+        },
+        {
+          "draft-triples": {
+            "subject": "Gates",
+            "predicate": "was ranked wealthiest person consecutively for",
+            "object": "13 years from 1995 to 2007"
+          },
+          "statement": {
+            "subject": "Q5284",
+            "property": "P31",
+            "object": "Q493078",
+            "references": [
+              {
+                "reference URL": "https://en.wikipedia.org/wiki/Bill_Gates",
+                "retrieved": "2026-11-07",
+                "title": "Bill Gates"
+              }
+            ],
+            "qualifiers": []
+          }
+        }
+      ]
+    },
+    {
+      "sentence": "Gates became the first centibillionaire in 1999, when his net worth briefly surpassed US$100 billion.",
+      "triples": [
+        {
+          "draft-triples": {
+            "subject": "Gates",
+            "predicate": "became",
+            "object": "the first centibillionaire"
+          },
+          "statement": {
+            "subject": "Q5284",
+            "property": "P31",
+            "object": "Q116788493",
+            "references": [
+              {
+                "reference URL": "https://en.wikipedia.org/wiki/Bill_Gates",
+                "retrieved": "2026-11-07",
+                "title": "Bill Gates"
+              }
+            ],
+            "qualifiers": []
+          }
+        },
+        {
+          "draft-triples": {
+            "subject": "Gates",
+            "predicate": "net worth briefly surpassed",
+            "object": "US$100 billion"
+          },
+          "statement": {
+            "subject": "Q5284",
+            "property": "P2218",
+            "object": { "amount": "+100000000000", "unit": "Q4917" },
+            "references": [
+              {
+                "reference URL": "https://en.wikipedia.org/wiki/Bill_Gates",
+                "retrieved": "2026-11-07",
+                "title": "Bill Gates"
+              }
+            ],
+            "qualifiers": []
+          }
+        }
+      ]
+    },
+    {
+      "sentence": "According to Forbes, as of July 2026, his net worth stood at US$106.5 billion, making him the 19th-wealthiest individual in the world.",
+      "triples": [
+        {
+          "draft-triples": {
+            "subject": "Gates",
+            "predicate": "net worth as of July 2026",
+            "object": "US$106.5 billion"
+          },
+          "statement": {
+            "subject": "Q5284",
+            "property": "P2218",
+            "object": { "amount": "+106500000000", "unit": "Q4917" },
+            "references": [
+              {
+                "reference URL": "https://en.wikipedia.org/wiki/Bill_Gates",
+                "retrieved": "2026-11-07",
+                "title": "Bill Gates"
+              }
+            ],
+            "qualifiers": []
+          }
+        },
+        {
+          "draft-triples": {
+            "subject": "Gates",
+            "predicate": "is ranked by Forbes as",
+            "object": "the 19th-wealthiest individual in the world"
+          },
+          "statement": {
+            "subject": "Q5284",
+            "property": "P31",
+            "object": "Q493078",
+            "references": [
+              {
+                "reference URL": "https://en.wikipedia.org/wiki/Bill_Gates",
+                "retrieved": "2026-11-07",
+                "title": "Bill Gates"
+              }
+            ],
+            "qualifiers": []
+          }
+        }
+      ]
+    }
+  ]
+}
+
